@@ -29,7 +29,7 @@
                 "last_commit": "2026-08-11T02:27:35Z",
                 "owner": "timarney",
                 "repo": "react-app-rewired",
-                "stars": 9842
+                "stars": 9841
               }
             }
           ],
@@ -39,7 +39,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103321
+            "stars": 103328
           }
         },
         {
@@ -73,7 +73,7 @@
             "last_commit": "2026-08-02T05:31:17Z",
             "owner": "mobxjs",
             "repo": "mobx",
-            "stars": 28201
+            "stars": 28202
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-02T05:31:17Z",
             "owner": "mobxjs",
             "repo": "mobx",
-            "stars": 28201
+            "stars": 28202
           }
         }
       ],
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T05:53:33Z",
+            "last_commit": "2026-08-14T06:41:33Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141754
+            "stars": 141780
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2021-05-31T08:46:08Z",
             "owner": "Raathigesh",
             "repo": "atmo",
-            "stars": 813
+            "stars": 814
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103321
+            "stars": 103328
           }
         },
         {
@@ -1580,7 +1580,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T22:05:55Z",
+            "last_commit": "2026-08-13T23:53:22Z",
             "owner": "xaviergonz",
             "repo": "mobx-keystone",
             "stars": 616
@@ -1722,7 +1722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:44:34.551Z",
+    "last_updated": "2026-08-14T06:41:54.742Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
     "enhanced_repository": "enhansome/enhansome-mobx",
