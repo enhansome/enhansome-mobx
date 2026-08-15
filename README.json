@@ -39,7 +39,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103328
+            "stars": 103312
           }
         },
         {
@@ -73,7 +73,7 @@
             "last_commit": "2026-08-02T05:31:17Z",
             "owner": "mobxjs",
             "repo": "mobx",
-            "stars": 28202
+            "stars": 28201
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-02T05:31:17Z",
             "owner": "mobxjs",
             "repo": "mobx",
-            "stars": 28202
+            "stars": 28201
           }
         }
       ],
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T06:41:33Z",
+            "last_commit": "2026-08-15T05:22:12Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141780
+            "stars": 141773
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103328
+            "stars": 103312
           }
         },
         {
@@ -1722,7 +1722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:41:54.742Z",
+    "last_updated": "2026-08-15T05:40:47.174Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
     "enhanced_repository": "enhansome/enhansome-mobx",
