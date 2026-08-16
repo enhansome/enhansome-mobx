@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T05:22:12Z",
+            "last_commit": "2026-08-16T05:38:48Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141773
+            "stars": 141795
           }
         },
         {
@@ -1722,7 +1722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:40:47.174Z",
+    "last_updated": "2026-08-16T05:42:41.190Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
     "enhanced_repository": "enhansome/enhansome-mobx",
