@@ -39,7 +39,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103296
+            "stars": 103294
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2023-01-04T16:18:43Z",
             "owner": "FormidableLabs",
             "repo": "react-game-kit",
-            "stars": 4605
+            "stars": 4604
           }
         },
         {
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T03:23:35Z",
+            "last_commit": "2026-08-18T05:31:25Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 141823
+            "stars": 141816
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2025-02-15T01:32:11Z",
             "owner": "react",
             "repo": "create-react-app",
-            "stars": 103296
+            "stars": 103294
           }
         },
         {
@@ -1722,7 +1722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:49:56.030Z",
+    "last_updated": "2026-08-18T05:44:42.803Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
     "enhanced_repository": "enhansome/enhansome-mobx",
