@@ -33,7 +33,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103288
+                "stars": 103290
               }
             },
             {
@@ -70,7 +70,7 @@
                 "last_commit": "2026-08-20T09:55:45Z",
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28203
+                "stars": 28205
               }
             },
             {
@@ -85,7 +85,7 @@
                 "last_commit": "2026-08-20T09:55:45Z",
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28203
+                "stars": 28205
               }
             }
           ],
@@ -315,10 +315,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T03:34:55Z",
+                    "last_commit": "2026-08-22T05:41:12Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141885
+                    "stars": 141880
                   }
                 },
                 {
@@ -393,7 +393,7 @@
                     "last_commit": "2026-02-19T20:36:44Z",
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 440
+                    "stars": 441
                   }
                 },
                 {
@@ -765,7 +765,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103288
+                "stars": 103290
               }
             },
             {
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:47:45.656Z",
+    "last_updated": "2026-08-22T05:42:26.129Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_id": 75948417,
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
