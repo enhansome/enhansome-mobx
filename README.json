@@ -33,7 +33,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103290
+                "stars": 103291
               }
             },
             {
@@ -206,7 +206,7 @@
                     "last_commit": "2025-03-21T18:07:06Z",
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4500
+                    "stars": 4502
                   }
                 },
                 {
@@ -315,10 +315,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-22T05:41:12Z",
+                    "last_commit": "2026-08-23T00:10:25Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141880
+                    "stars": 141888
                   }
                 },
                 {
@@ -765,7 +765,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103290
+                "stars": 103291
               }
             },
             {
@@ -1641,7 +1641,7 @@
                     "archived": false,
                     "id": 186887617,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T14:40:54Z",
+                    "last_commit": "2026-08-22T18:57:20Z",
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
                     "stars": 621
@@ -1797,7 +1797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:42:26.129Z",
+    "last_updated": "2026-08-23T05:44:49.853Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_id": 75948417,
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
