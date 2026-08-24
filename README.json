@@ -33,7 +33,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103285
+                "stars": 103286
               }
             },
             {
@@ -178,6 +178,101 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Importing store directly or pass as props?",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32215970,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T02:12:16Z",
+                "owner": "mobxjs",
+                "repo": "mobx",
+                "stars": 28205
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "FAQ"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Understanding MobX versus Redux",
+                  "description": "(related thread: https://github.com/mobxjs/mobx/issues/199)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32215970,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T02:12:16Z",
+                    "owner": "mobxjs",
+                    "repo": "mobx",
+                    "stars": 28205
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Videos"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Simple ES5 MobX examples",
+                  "description": "Bite sized MobX examples all setup to run in jsFiddle.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59584952,
+                    "language": null,
+                    "last_commit": "2026-02-13T17:59:09Z",
+                    "owner": "mobxjs",
+                    "repo": "mobx-examples",
+                    "stars": 286
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tutorials"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Understanding MobX and when to use it (Github issue)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32215970,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T02:12:16Z",
+                    "owner": "mobxjs",
+                    "repo": "mobx",
+                    "stars": 28205
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Blogs"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Publications"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -206,7 +301,7 @@
                     "last_commit": "2025-03-21T18:07:06Z",
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4502
+                    "stars": 4503
                   }
                 },
                 {
@@ -221,7 +316,7 @@
                     "last_commit": "2022-12-07T17:55:22Z",
                     "owner": "iam4x",
                     "repo": "pokemongo-webspoof",
-                    "stars": 2127
+                    "stars": 2126
                   }
                 },
                 {
@@ -308,6 +403,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "react-transmission",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 73082349,
+                    "language": "JavaScript",
+                    "last_commit": "2017-09-30T12:54:35Z",
+                    "owner": "fcsonline",
+                    "repo": "react-transmission",
+                    "stars": 131
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Real-life examples"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Next.js with MobX",
                   "description": null,
                   "children": [],
@@ -315,10 +432,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T05:08:04Z",
+                    "last_commit": "2026-08-24T13:56:48Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141904
+                    "stars": 141913
                   }
                 },
                 {
@@ -765,7 +882,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103285
+                "stars": 103286
               }
             },
             {
@@ -1797,7 +1914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:52:54.794Z",
+    "last_updated": "2026-08-24T14:05:02.307Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_id": 75948417,
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
