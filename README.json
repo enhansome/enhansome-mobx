@@ -70,7 +70,7 @@
                 "last_commit": "2026-08-24T02:12:16Z",
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28205
+                "stars": 28206
               }
             },
             {
@@ -85,7 +85,7 @@
                 "last_commit": "2026-08-24T02:12:16Z",
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28205
+                "stars": 28206
               }
             }
           ],
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-24T02:12:16Z",
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28205
+                "stars": 28206
               }
             }
           ],
@@ -213,7 +213,7 @@
                     "last_commit": "2026-08-24T02:12:16Z",
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28205
+                    "stars": 28206
                   }
                 }
               ],
@@ -257,7 +257,7 @@
                     "last_commit": "2026-08-24T02:12:16Z",
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28205
+                    "stars": 28206
                   }
                 }
               ],
@@ -301,7 +301,7 @@
                     "last_commit": "2025-03-21T18:07:06Z",
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4503
+                    "stars": 4502
                   }
                 },
                 {
@@ -432,7 +432,7 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T03:27:15Z",
+                    "last_commit": "2026-08-25T08:01:55Z",
                     "owner": "vercel",
                     "repo": "next.js",
                     "stars": 141924
@@ -1914,7 +1914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:19.947Z",
+    "last_updated": "2026-08-25T08:06:51.007Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_id": 75948417,
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
