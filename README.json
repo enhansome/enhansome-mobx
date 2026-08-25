@@ -33,7 +33,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103286
+                "stars": 103281
               }
             },
             {
@@ -432,10 +432,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T13:56:48Z",
+                    "last_commit": "2026-08-25T03:27:15Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141913
+                    "stars": 141924
                   }
                 },
                 {
@@ -882,7 +882,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103286
+                "stars": 103281
               }
             },
             {
@@ -1746,7 +1746,7 @@
                     "last_commit": "2026-08-23T14:55:10Z",
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7054
+                    "stars": 7053
                   }
                 },
                 {
@@ -1914,7 +1914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:02.307Z",
+    "last_updated": "2026-08-25T05:56:19.947Z",
     "original_repository": "mobxjs/awesome-mobx",
     "original_repository_id": 75948417,
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
