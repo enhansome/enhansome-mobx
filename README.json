@@ -33,7 +33,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103281
+                "stars": 103282
               }
             },
             {
@@ -432,10 +432,10 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T11:00:21Z",
+                    "last_commit": "2026-08-27T16:29:34Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141957
+                    "stars": 141962
                   }
                 },
                 {
@@ -882,7 +882,7 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103281
+                "stars": 103282
               }
             },
             {
@@ -1914,7 +1914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:56.136Z",
+    "last_updated": "2026-08-27T16:30:20.832Z",
     "original_repository_info": {
       "archived": false,
       "id": 75948417,
