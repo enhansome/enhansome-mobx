@@ -22,8 +22,9 @@
                     "last_commit": "2026-08-11T02:27:35Z",
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9840
-                  }
+                    "stars": 9841
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "repo_info": {
@@ -33,8 +34,9 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103282
-              }
+                "stars": 103280
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -49,7 +51,8 @@
                 "owner": "idanlevi1",
                 "repo": "mobx6-with-persist-starter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             }
           ],
           "description": null,
@@ -71,7 +74,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx",
                 "stars": 28206
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -86,7 +90,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx",
                 "stars": 28206
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             }
           ],
           "description": null,
@@ -108,7 +113,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-react-devtools",
                 "stars": 1223
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -123,7 +129,8 @@
                 "owner": "zalmoxisus",
                 "repo": "mobx-remotedev",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -138,7 +145,8 @@
                 "owner": "BrascoJS",
                 "repo": "delorean",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -153,7 +161,8 @@
                 "owner": "motion",
                 "repo": "mobx-formatters",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -168,7 +177,8 @@
                 "owner": "zheeeng",
                 "repo": "friendly-mobx-console-formatter",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             }
           ],
           "description": null,
@@ -190,7 +200,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx",
                 "stars": 28206
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             }
           ],
           "description": null,
@@ -214,7 +225,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx",
                     "stars": 28206
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "description": null,
@@ -236,7 +248,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx-examples",
                     "stars": 286
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "description": null,
@@ -258,7 +271,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx",
                     "stars": 28206
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "description": null,
@@ -287,7 +301,8 @@
                     "owner": "FormidableLabs",
                     "repo": "react-game-kit",
                     "stars": 4603
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -302,7 +317,8 @@
                     "owner": "async-labs",
                     "repo": "saas",
                     "stars": 4502
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -317,7 +333,8 @@
                     "owner": "iam4x",
                     "repo": "pokemongo-webspoof",
                     "stars": 2126
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -332,7 +349,8 @@
                     "owner": "CirclonGroup",
                     "repo": "angular-tree-component",
                     "stars": 1098
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -347,7 +365,8 @@
                     "owner": "rwieruch",
                     "repo": "favesound-mobx",
                     "stars": 523
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -362,7 +381,8 @@
                     "owner": "GPMDP",
                     "repo": "google-play-music-desktop-remote",
                     "stars": 195
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -377,7 +397,8 @@
                     "owner": "whphhg",
                     "repo": "vcash-electron",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -392,7 +413,8 @@
                     "owner": "hawkins",
                     "repo": "streamflow",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "description": null,
@@ -414,7 +436,8 @@
                     "owner": "fcsonline",
                     "repo": "react-transmission",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "description": null,
@@ -432,11 +455,12 @@
                     "archived": false,
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T16:29:34Z",
+                    "last_commit": "2026-08-28T17:20:51Z",
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141962
-                  }
+                    "stars": 141972
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -451,7 +475,8 @@
                     "owner": "staltz",
                     "repo": "flux-challenge",
                     "stars": 1642
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -466,7 +491,8 @@
                     "owner": "gothinkster",
                     "repo": "react-mobx-realworld-example-app",
                     "stars": 1244
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -481,7 +507,8 @@
                     "owner": "Raathigesh",
                     "repo": "atmo",
                     "stars": 814
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -496,7 +523,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx-react-todomvc",
                     "stars": 499
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -511,7 +539,8 @@
                     "owner": "AccountGo",
                     "repo": "accountgo",
                     "stars": 441
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -526,7 +555,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx-examples",
                     "stars": 286
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -541,7 +571,8 @@
                     "owner": "bitcoinvsalts",
                     "repo": "react-native-firebase-starter",
                     "stars": 286
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -556,7 +587,8 @@
                     "owner": "kuuup",
                     "repo": "mobx-ssr-example",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -571,7 +603,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx-reactive2015-demo",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -586,7 +619,8 @@
                     "owner": "contacts-mvc",
                     "repo": "mobx-react-typescript",
                     "stars": 94
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -601,7 +635,8 @@
                     "owner": "danieldunderfelt",
                     "repo": "mobx-app",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -616,7 +651,8 @@
                     "owner": "survivejs-demos",
                     "repo": "mobx-demo",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -631,7 +667,8 @@
                     "owner": "rwieruch",
                     "repo": "react-mobx-soundcloud",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -646,7 +683,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx-contacts-list",
                     "stars": 75
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -661,7 +699,8 @@
                     "owner": "shanmugharajk",
                     "repo": "react-card-game",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -676,7 +715,8 @@
                     "owner": "paulhoughton",
                     "repo": "mortgage-mobx",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -691,7 +731,8 @@
                     "owner": "tonyspiro",
                     "repo": "easy-mobx-example",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -706,7 +747,8 @@
                     "owner": "danielearwicker",
                     "repo": "baltar",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -721,7 +763,8 @@
                     "owner": "winterbe",
                     "repo": "RNTimerExample",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -736,7 +779,8 @@
                     "owner": "limichange",
                     "repo": "flex-editor",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -751,7 +795,8 @@
                     "owner": "dimafeng",
                     "repo": "typescript-react-mobx-template",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -766,7 +811,8 @@
                     "owner": "jeffijoe",
                     "repo": "logpipe-server",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -781,7 +827,8 @@
                     "owner": "trknhr",
                     "repo": "mobx-react-tetris",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -796,7 +843,8 @@
                     "owner": "mobxjs",
                     "repo": "react-particles-experiment",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -811,7 +859,8 @@
                     "owner": "piotrwitek",
                     "repo": "training-management-tool",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -826,7 +875,8 @@
                     "owner": "eswat2",
                     "repo": "egghead-mobx",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -841,7 +891,8 @@
                     "owner": "nahueld",
                     "repo": "portfolia",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -856,7 +907,8 @@
                     "owner": "ifokeev",
                     "repo": "support-service",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "description": null,
@@ -882,8 +934,9 @@
                 "last_commit": "2025-02-15T01:32:11Z",
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103282
-              }
+                "stars": 103280
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -898,7 +951,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-react-boilerplate",
                 "stars": 884
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -913,7 +967,8 @@
                 "owner": "mhaagens",
                 "repo": "react-mobx-react-router4-boilerplate",
                 "stars": 556
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -928,7 +983,8 @@
                 "owner": "mhaagens",
                 "repo": "react-mobx-react-router4-boilerplate",
                 "stars": 556
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -943,7 +999,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-angular",
                 "stars": 482
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -958,7 +1015,8 @@
                 "owner": "foxhound87",
                 "repo": "rfx-stack",
                 "stars": 421
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1031,8 @@
                 "owner": "devowlio",
                 "repo": "wp-react-starter",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1047,8 @@
                 "owner": "rokoroku",
                 "repo": "react-mobx-typescript-boilerplate",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1003,7 +1063,8 @@
                 "owner": "YDJ-FE",
                 "repo": "ts-react-vite_or_webpack",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1018,7 +1079,8 @@
                 "owner": "nightwolfz",
                 "repo": "mobx-starter",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1033,7 +1095,8 @@
                 "owner": "lostpebble",
                 "repo": "koa-mobx-react-starter",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1048,7 +1111,8 @@
                 "owner": "alexvcasillas",
                 "repo": "react-mobx-router",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1063,7 +1127,8 @@
                 "owner": "Xerios",
                 "repo": "mobx-isomorphic-starter",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1078,7 +1143,8 @@
                 "owner": "code-shoily",
                 "repo": "modular-mobx-boilerplate",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1159,8 @@
                 "owner": "sapientglobalmarkets",
                 "repo": "react-mobx-seed",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1108,7 +1175,8 @@
                 "owner": "mjyoung",
                 "repo": "react-native-mobx-boilerplate",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1123,7 +1191,8 @@
                 "owner": "timarney",
                 "repo": "cra-mobx-reactrouter",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1138,7 +1207,8 @@
                 "owner": "pixelkritzel",
                 "repo": "gulp_es6_sass_boilerplate",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             }
           ],
           "description": null,
@@ -1160,7 +1230,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-react",
                 "stars": 4818
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1175,7 +1246,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-react-lite",
                 "stars": 2118
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1190,7 +1262,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-utils",
                 "stars": 1219
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1205,7 +1278,8 @@
                 "owner": "mobxjs",
                 "repo": "serializr",
                 "stars": 778
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1220,7 +1294,8 @@
                 "owner": "pinqy520",
                 "repo": "mobx-persist",
                 "stars": 553
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1235,7 +1310,8 @@
                 "owner": "kitze",
                 "repo": "mobx-router",
                 "stars": 504
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1250,7 +1326,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-vue",
                 "stars": 479
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1265,7 +1342,8 @@
                 "owner": "IjzerenHein",
                 "repo": "firestorter",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1280,7 +1358,8 @@
                 "owner": "zalmoxisus",
                 "repo": "mobx-remotedev",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1295,7 +1374,8 @@
                 "owner": "jeffijoe",
                 "repo": "mobx-task",
                 "stars": 243
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1310,7 +1390,8 @@
                 "owner": "winterbe",
                 "repo": "mobx-logger",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1325,7 +1406,8 @@
                 "owner": "masylum",
                 "repo": "mobx-rest",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1340,7 +1422,8 @@
                 "owner": "amsb",
                 "repo": "mobx-reactor",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1355,7 +1438,8 @@
                 "owner": "danielearwicker",
                 "repo": "computed-async-mobx",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1370,7 +1454,8 @@
                 "owner": "farwayer",
                 "repo": "mobx-decorators",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1385,7 +1470,8 @@
                 "owner": "mobxjs",
                 "repo": "mobx-preact",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1400,7 +1486,8 @@
                 "owner": "elefanty",
                 "repo": "offramp",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1415,7 +1502,8 @@
                 "owner": "danieldunderfelt",
                 "repo": "mobx-app",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1430,7 +1518,8 @@
                 "owner": "nyura123",
                 "repo": "mobx-firebase-store",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1445,7 +1534,8 @@
                 "owner": "nighca",
                 "repo": "movue",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1460,7 +1550,8 @@
                 "owner": "xelaok",
                 "repo": "svelte-mobx",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1475,7 +1566,8 @@
                 "owner": "vict-shevchenko",
                 "repo": "reactive-mobx-form",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1490,7 +1582,8 @@
                 "owner": "capaj",
                 "repo": "mobx-stored",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1505,7 +1598,8 @@
                 "owner": "foxhound87",
                 "repo": "mobx-react-matchmedia",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1520,7 +1614,8 @@
                 "owner": "Sqooba",
                 "repo": "mobx-react-intl",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1535,7 +1630,8 @@
                 "owner": "mdebbar",
                 "repo": "mobx-cache",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1550,7 +1646,8 @@
                 "owner": "tomaash",
                 "repo": "mobx-input",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1565,7 +1662,8 @@
                 "owner": "mass3ff3ct",
                 "repo": "mobx-react-inject",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1580,7 +1678,8 @@
                 "owner": "infinum",
                 "repo": "react-mobx-translatable",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1595,7 +1694,8 @@
                 "owner": "httptoolkit",
                 "repo": "mobx-shallow-undo",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1610,7 +1710,8 @@
                 "owner": "metro-nom",
                 "repo": "mobx-binder",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1625,7 +1726,8 @@
                 "owner": "dettier",
                 "repo": "mobx-autorun-async-immediate",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1640,7 +1742,8 @@
                 "owner": "capaj",
                 "repo": "mobx-observer",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1655,7 +1758,8 @@
                 "owner": "alexhisen",
                 "repo": "mobx-form-store",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1670,7 +1774,8 @@
                 "owner": "iamdanthedev",
                 "repo": "mobase",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1685,7 +1790,8 @@
                 "owner": "ds300",
                 "repo": "redux-mobx-connect",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1700,7 +1806,8 @@
                 "owner": "ivandotv",
                 "repo": "dumba",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1715,7 +1822,8 @@
                 "owner": "GWTReact",
                 "repo": "gwt-mobx",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "node_type": "item",
@@ -1730,7 +1838,8 @@
                 "owner": "jamiewinder",
                 "repo": "mobx-bind",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:26:22.136Z"
             },
             {
               "children": [
@@ -1747,7 +1856,8 @@
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
                     "stars": 7053
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1762,7 +1872,8 @@
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
                     "stars": 622
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1777,7 +1888,8 @@
                     "owner": "mmlpxjs",
                     "repo": "mmlpx",
                     "stars": 179
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1792,7 +1904,8 @@
                     "owner": "jeffijoe",
                     "repo": "libx",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1807,7 +1920,8 @@
                     "owner": "danielearwicker",
                     "repo": "json-mobx",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1822,7 +1936,8 @@
                     "owner": "wearevolt",
                     "repo": "mobx-model",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1837,7 +1952,8 @@
                     "owner": "infinum",
                     "repo": "mobx-jsonapi-store",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1852,7 +1968,8 @@
                     "owner": "infinum",
                     "repo": "mobx-collection-store",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1867,7 +1984,8 @@
                     "owner": "CodeYellowBV",
                     "repo": "mobx-spine",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1882,7 +2000,8 @@
                     "owner": "martwz",
                     "repo": "openui5-mobx-model",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 },
                 {
                   "node_type": "item",
@@ -1897,7 +2016,8 @@
                     "owner": "rakenapp",
                     "repo": "mobx-mc",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "description": null,
@@ -1914,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:30:20.832Z",
+    "last_updated": "2026-08-28T17:26:22.136Z",
     "original_repository_info": {
       "archived": false,
       "id": 75948417,
