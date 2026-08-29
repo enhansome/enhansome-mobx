@@ -50,7 +50,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103279,
+                "stars": 103280,
                 "topics": [
                   "build-tools",
                   "react",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T00:19:20Z",
-                    "open_issues": 3638,
+                    "last_commit": "2026-08-29T10:59:13Z",
+                    "open_issues": 3635,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141980,
+                    "stars": 141985,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103279,
+                "stars": 103280,
                 "topics": [
                   "build-tools",
                   "react",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:48.315Z",
+    "last_updated": "2026-08-29T11:39:40.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
