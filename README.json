@@ -17,24 +17,45 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Override create-react-app webpack configs without ejecting",
+                    "homepage": null,
                     "id": 65231883,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T02:27:35Z",
+                    "open_issues": 24,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9841
+                    "stars": 9841,
+                    "topics": [
+                      "config",
+                      "create-react-app",
+                      "eject",
+                      "never",
+                      "react",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -45,12 +66,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobx 6 with persist and without decorators",
+                "homepage": null,
                 "id": 355646133,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-11-16T19:51:27Z",
+                "open_issues": 0,
                 "owner": "idanlevi1",
                 "repo": "mobx6-with-persist-starter",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             }
@@ -68,12 +94,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, scalable state management.",
+                "homepage": "http://mobx.js.org",
                 "id": 32215970,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:12:16Z",
+                "open_issues": 57,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28206
+                "stars": 28206,
+                "topics": [
+                  "javascript",
+                  "mobx",
+                  "react",
+                  "reactive-programming",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -84,12 +121,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, scalable state management.",
+                "homepage": "http://mobx.js.org",
                 "id": 32215970,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:12:16Z",
+                "open_issues": 57,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28206
+                "stars": 28206,
+                "topics": [
+                  "javascript",
+                  "mobx",
+                  "react",
+                  "reactive-programming",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             }
@@ -107,12 +155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] Tools to perform runtime analyses of React applications powered by MobX and React",
+                "homepage": null,
                 "id": 41605464,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-05-31T18:51:16Z",
+                "open_issues": 18,
                 "owner": "mobxjs",
                 "repo": "mobx-react-devtools",
-                "stars": 1223
+                "stars": 1223,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -123,12 +176,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MobX DevTools extension",
+                "homepage": null,
                 "id": 62446156,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-04-29T23:05:14Z",
+                "open_issues": 22,
                 "owner": "zalmoxisus",
                 "repo": "mobx-remotedev",
-                "stars": 330
+                "stars": 330,
+                "topics": [
+                  "devtools",
+                  "mobx",
+                  "react",
+                  "remotedev"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -139,12 +202,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MobX-React Time Travel Debugger",
+                "homepage": null,
                 "id": 79399294,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2020-03-08T01:34:29Z",
+                "open_issues": 4,
                 "owner": "BrascoJS",
                 "repo": "delorean",
-                "stars": 249
+                "stars": 249,
+                "topics": [
+                  "debugger",
+                  "mobx",
+                  "mobx-react",
+                  "redo-actions",
+                  "time-travel",
+                  "travel-slider"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -155,12 +230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome console formatters for mobx",
+                "homepage": null,
                 "id": 89401447,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-07-24T03:58:12Z",
+                "open_issues": 2,
                 "owner": "motion",
                 "repo": "mobx-formatters",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -171,12 +251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Friendly MobX Console Formatter",
+                "homepage": null,
                 "id": 733920158,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-12-25T02:22:17Z",
+                "open_issues": 0,
                 "owner": "zheeeng",
                 "repo": "friendly-mobx-console-formatter",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             }
@@ -194,12 +279,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, scalable state management.",
+                "homepage": "http://mobx.js.org",
                 "id": 32215970,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:12:16Z",
+                "open_issues": 57,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28206
+                "stars": 28206,
+                "topics": [
+                  "javascript",
+                  "mobx",
+                  "react",
+                  "reactive-programming",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             }
@@ -219,12 +315,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple, scalable state management.",
+                    "homepage": "http://mobx.js.org",
                     "id": 32215970,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T02:12:16Z",
+                    "open_issues": 57,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28206
+                    "stars": 28206,
+                    "topics": [
+                      "javascript",
+                      "mobx",
+                      "react",
+                      "reactive-programming",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
@@ -242,12 +349,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of simple mobx examples",
+                    "homepage": null,
                     "id": 59584952,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-02-13T17:59:09Z",
+                    "open_issues": 6,
                     "owner": "mobxjs",
                     "repo": "mobx-examples",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
@@ -265,12 +377,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple, scalable state management.",
+                    "homepage": "http://mobx.js.org",
                     "id": 32215970,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T02:12:16Z",
+                    "open_issues": 57,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28206
+                    "stars": 28206,
+                    "topics": [
+                      "javascript",
+                      "mobx",
+                      "react",
+                      "reactive-programming",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
@@ -295,12 +418,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Component library for making games with React  & React Native",
+                    "homepage": "http://reactnext.surge.sh",
                     "id": 68275675,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-04T16:18:43Z",
+                    "open_issues": 28,
                     "owner": "FormidableLabs",
                     "repo": "react-game-kit",
-                    "stars": 4603
+                    "stars": 4603,
+                    "topics": [
+                      "component-tree",
+                      "game",
+                      "matter",
+                      "physics-bodies",
+                      "physics-engine",
+                      "react",
+                      "reactjs",
+                      "sprite-animation",
+                      "spritesheet",
+                      "tilemap"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -311,12 +450,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.",
+                    "homepage": "https://saas-app.async-await.com",
                     "id": 128308007,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-03-21T18:07:06Z",
+                    "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4502
+                    "stars": 4502,
+                    "topics": [
+                      "aws-s3",
+                      "aws-ses",
+                      "boilerplate",
+                      "express",
+                      "google-api",
+                      "mailchimp",
+                      "material-ui",
+                      "mobx",
+                      "mongodb",
+                      "mongoose",
+                      "nextjs",
+                      "passport",
+                      "react",
+                      "saas",
+                      "saas-boilerplate",
+                      "saas-business",
+                      "saas-product",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -327,12 +490,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👾 Play Pokémon Go from your Mac",
+                    "homepage": null,
                     "id": 63454075,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2022-12-07T17:55:22Z",
+                    "open_issues": 152,
                     "owner": "iam4x",
                     "repo": "pokemongo-webspoof",
-                    "stars": 2126
+                    "stars": 2126,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -343,12 +511,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple yet powerful tree component for Angular (>=2)",
+                    "homepage": "https://angular2-tree.readme.io/docs",
                     "id": 53618401,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-07-17T21:58:55Z",
+                    "open_issues": 131,
                     "owner": "CirclonGroup",
                     "repo": "angular-tree-component",
-                    "stars": 1098
+                    "stars": 1098,
+                    "topics": [
+                      "angular",
+                      "angular2",
+                      "angular4",
+                      "angular5",
+                      "frontend",
+                      "frontend-components",
+                      "javascript",
+                      "javascript-library",
+                      "library",
+                      "open-source",
+                      "opensource",
+                      "tree",
+                      "tree-component",
+                      "treeview",
+                      "typescript",
+                      "typescript-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -359,12 +549,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎶 A SoundCloud Client in React + MobX running in production. Live Demo and Source Code to explore React + MobX. Refactored from favesound-redux",
+                    "homepage": "http://www.robinwieruch.de/",
                     "id": 65975904,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-10-25T05:42:50Z",
+                    "open_issues": 3,
                     "owner": "rwieruch",
                     "repo": "favesound-mobx",
-                    "stars": 523
+                    "stars": 523,
+                    "topics": [
+                      "demo",
+                      "mobx",
+                      "mobx-react",
+                      "react",
+                      "react-router",
+                      "react-router-v4",
+                      "soundcloud",
+                      "soundcloud-api",
+                      "soundcloud-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -375,12 +580,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A React-Native app to remote control Google Play Music Desktop",
+                    "homepage": null,
                     "id": 54234881,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2020-07-27T10:54:43Z",
+                    "open_issues": 14,
                     "owner": "GPMDP",
                     "repo": "google-play-music-desktop-remote",
-                    "stars": 195
+                    "stars": 195,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -391,12 +601,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-platform and multi-node GUI for Vcash.",
+                    "homepage": null,
                     "id": 63630004,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-02-26T19:53:41Z",
+                    "open_issues": 8,
                     "owner": "whphhg",
                     "repo": "vcash-electron",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "electron",
+                      "gui",
+                      "mobx",
+                      "react",
+                      "vcash",
+                      "vcash-electron"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -407,12 +629,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":tv: Watch your favorite Twitch streamers without any downtime",
+                    "homepage": "https://streamflow-releases.now.sh/",
                     "id": 87673793,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-08-23T01:43:57Z",
+                    "open_issues": 16,
                     "owner": "hawkins",
                     "repo": "streamflow",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "electron",
+                      "react",
+                      "twitch"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
@@ -430,12 +661,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React Transmission is an ongoing reimplementation of Transmission web interface.",
+                    "homepage": null,
                     "id": 73082349,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-09-30T12:54:35Z",
+                    "open_issues": 9,
                     "owner": "fcsonline",
                     "repo": "react-transmission",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": [
+                      "mobx",
+                      "react",
+                      "torrent",
+                      "torrent-client",
+                      "transmission"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
@@ -453,12 +695,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The React Framework",
+                    "homepage": "https://nextjs.org",
                     "id": 70107786,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T17:20:51Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:19:20Z",
+                    "open_issues": 3638,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141972
+                    "stars": 141980,
+                    "topics": [
+                      "blog",
+                      "browser",
+                      "compiler",
+                      "components",
+                      "hybrid",
+                      "nextjs",
+                      "node",
+                      "react",
+                      "server-rendering",
+                      "ssg",
+                      "static",
+                      "static-site-generator",
+                      "universal",
+                      "vercel"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -469,12 +731,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A frontend challenge to test UI architectures and solutions",
+                    "homepage": null,
                     "id": 43766324,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-04-30T20:21:47Z",
+                    "open_issues": 12,
                     "owner": "staltz",
                     "repo": "flux-challenge",
-                    "stars": 1642
+                    "stars": 1642,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -485,12 +752,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Exemplary real world application built with React + MobX",
+                    "homepage": "https://react-mobx.realworld.io/",
                     "id": 91491386,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-04-12T23:05:34Z",
+                    "open_issues": 34,
                     "owner": "gothinkster",
                     "repo": "react-mobx-realworld-example-app",
-                    "stars": 1244
+                    "stars": 1244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -501,12 +773,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.",
+                    "homepage": null,
                     "id": 59401737,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2021-05-31T08:46:08Z",
+                    "open_issues": 5,
                     "owner": "Raathigesh",
                     "repo": "atmo",
-                    "stars": 814
+                    "stars": 814,
+                    "topics": [
+                      "atmo",
+                      "mock-server",
+                      "mock-services",
+                      "prototyping",
+                      "zeit"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -517,12 +800,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TodoMVC reference implementation on top of react-mobx-boilerplate",
+                    "homepage": null,
                     "id": 41570840,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-10-09T20:47:39Z",
+                    "open_issues": 2,
                     "owner": "mobxjs",
                     "repo": "mobx-react-todomvc",
-                    "stars": 499
+                    "stars": 499,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -533,12 +821,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Accounting System built in ASP.NET DotNetCore, ReactJS, MobX. Don't forget to click STAR if you like this project.",
+                    "homepage": "http://accountgo.net",
                     "id": 29806722,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-02-19T20:36:44Z",
+                    "open_issues": 45,
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 441
+                    "stars": 441,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -549,12 +842,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of simple mobx examples",
+                    "homepage": null,
                     "id": 59584952,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-02-13T17:59:09Z",
+                    "open_issues": 6,
                     "owner": "mobxjs",
                     "repo": "mobx-examples",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -565,12 +863,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The ultimate React Native starter using Firebase, Mobx, CodePush, OneSignal made with ♥",
+                    "homepage": "http://jsapp.me",
                     "id": 72585825,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2021-04-19T20:13:17Z",
+                    "open_issues": 4,
                     "owner": "bitcoinvsalts",
                     "repo": "react-native-firebase-starter",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": [
+                      "codepush",
+                      "firebase",
+                      "mobx",
+                      "onesignal",
+                      "react-native"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -581,12 +890,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Server-side rendering with react and mobx",
+                    "homepage": null,
                     "id": 57136403,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-10-30T10:00:00Z",
+                    "open_issues": 0,
                     "owner": "kuuup",
                     "repo": "mobx-ssr-example",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -597,12 +911,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Runnable source code of the #GoReactive #mobservable talk",
+                    "homepage": null,
                     "id": 45540415,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-08-16T18:33:29Z",
+                    "open_issues": 2,
                     "owner": "mobxjs",
                     "repo": "mobx-reactive2015-demo",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -613,12 +932,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React + MobX + TypeScript = ✔︎",
+                    "homepage": "https://contacts-mvc-mobx-react-ts.herokuapp.com/",
                     "id": 52706805,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-01-12T04:33:09Z",
+                    "open_issues": 2,
                     "owner": "contacts-mvc",
                     "repo": "mobx-react-typescript",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -629,12 +953,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A functional structure for mobx",
+                    "homepage": null,
                     "id": 69997799,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-07-14T05:39:15Z",
+                    "open_issues": 0,
                     "owner": "danieldunderfelt",
                     "repo": "mobx-app",
-                    "stars": 87
+                    "stars": 87,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -645,12 +974,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MobX port of SurviveJS - Webpack and React apps",
+                    "homepage": "https://survivejs.com/",
                     "id": 40561111,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-08-07T12:49:16Z",
+                    "open_issues": 0,
                     "owner": "survivejs-demos",
                     "repo": "mobx-demo",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "mobx",
+                      "mobx-port",
+                      "react",
+                      "survivejs",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -661,12 +1001,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The SoundCloud Client in React + MobX - Boilerplate",
+                    "homepage": "http://www.robinwieruch.de/mobx-react/",
                     "id": 63496019,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2018-10-25T04:53:17Z",
+                    "open_issues": 2,
                     "owner": "rwieruch",
                     "repo": "react-mobx-soundcloud",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -677,12 +1022,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React Amsterdam 2016 Demo Project",
+                    "homepage": null,
                     "id": 56086402,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-11-19T20:02:19Z",
+                    "open_issues": 1,
                     "owner": "mobxjs",
                     "repo": "mobx-contacts-list",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -693,12 +1043,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A multiplayer game built on socket.io, React, Mobx",
+                    "homepage": null,
                     "id": 108276998,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-02-13T08:24:22Z",
+                    "open_issues": 2,
                     "owner": "shanmugharajk",
                     "repo": "react-card-game",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "game",
+                      "mobx",
+                      "mobx-react",
+                      "multiplayer-game",
+                      "nodejs",
+                      "reactjs",
+                      "semantic-ui",
+                      "socket-io"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -709,12 +1073,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mortgage overpayment calculator using React with MobX state tree and D3",
+                    "homepage": "http://paulhoughton.github.io/mortgage-mobx/",
                     "id": 61709808,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-10-29T09:22:59Z",
+                    "open_issues": 0,
                     "owner": "paulhoughton",
                     "repo": "mortgage-mobx",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -725,12 +1094,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy MobX + React Example",
+                    "homepage": "http://easy-mobx-example.cosmicapp.co",
                     "id": 61733457,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-07-13T13:12:56Z",
+                    "open_issues": 0,
                     "owner": "tonyspiro",
                     "repo": "easy-mobx-example",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -741,12 +1115,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example graphics editor using MobX",
+                    "homepage": null,
                     "id": 81879530,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2017-02-14T10:49:38Z",
+                    "open_issues": 0,
                     "owner": "danielearwicker",
                     "repo": "baltar",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": [
+                      "bidi-mobx",
+                      "json-mobx",
+                      "mobx",
+                      "reconciliation",
+                      "serialization"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -757,12 +1142,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "📱 React Native + Mobx sample app",
+                    "homepage": "https://twitter.com/winterbe_",
                     "id": 79815151,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2017-05-10T08:14:47Z",
+                    "open_issues": 0,
                     "owner": "winterbe",
                     "repo": "RNTimerExample",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "android",
+                      "app",
+                      "ios",
+                      "javascript",
+                      "mobile",
+                      "mobx",
+                      "react",
+                      "react-native"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -773,12 +1172,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flex editor",
+                    "homepage": "https://limichange.github.io/flex-editor/",
                     "id": 103075236,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-12-15T05:38:55Z",
+                    "open_issues": 0,
                     "owner": "limichange",
                     "repo": "flex-editor",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "css",
+                      "editor",
+                      "flexbox",
+                      "mobx",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -789,12 +1199,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example of a TypeScript application that uses: react.js, react-router, mobx, rx.js, jest, webpack 1, tslint",
+                    "homepage": null,
                     "id": 86763707,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2017-04-21T03:18:16Z",
+                    "open_issues": 0,
                     "owner": "dimafeng",
                     "repo": "typescript-react-mobx-template",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "jest",
+                      "mobx",
+                      "mobx-react",
+                      "react",
+                      "rxjs",
+                      "tslint",
+                      "typescript",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -805,12 +1229,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Logpipe server.",
+                    "homepage": null,
                     "id": 55719911,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-06-15T19:47:20Z",
+                    "open_issues": 0,
                     "owner": "jeffijoe",
                     "repo": "logpipe-server",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -821,12 +1250,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 71059068,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-12-23T10:57:25Z",
+                    "open_issues": 0,
                     "owner": "trknhr",
                     "repo": "mobx-react-tetris",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "mobx",
+                      "react",
+                      "tetris"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -837,12 +1275,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An experiment to see if you can make a particle generator in redux+react+d3.",
+                    "homepage": "http://swizec.github.io/react-particles-experiment",
                     "id": 53872244,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-03-21T19:17:24Z",
+                    "open_issues": 0,
                     "owner": "mobxjs",
                     "repo": "react-particles-experiment",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -853,12 +1296,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Training Management Tool - Dev Workshop Project",
+                    "homepage": "http://piotrwitek.github.io/training-management-tool",
                     "id": 58553313,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-06-26T16:02:05Z",
+                    "open_issues": 2,
                     "owner": "piotrwitek",
                     "repo": "training-management-tool",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -869,12 +1317,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "my experiment converting the Github Note Taker app to Mobx",
+                    "homepage": null,
                     "id": 63124690,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-07-21T22:32:45Z",
+                    "open_issues": 0,
                     "owner": "eswat2",
                     "repo": "egghead-mobx",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -885,12 +1338,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A react-mobx application to display and favorite images.",
+                    "homepage": null,
                     "id": 144256506,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2021-08-22T07:23:09Z",
+                    "open_issues": 1,
                     "owner": "nahueld",
                     "repo": "portfolia",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -901,12 +1359,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight support service via ReactJS, Mobx, Grape (ruby) and Mongodb",
+                    "homepage": null,
                     "id": 62260333,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-08-26T00:23:47Z",
+                    "open_issues": 0,
                     "owner": "ifokeev",
                     "repo": "support-service",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
@@ -929,12 +1392,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a modern web app by running one command.",
+                "homepage": "https://create-react-app.dev/",
                 "id": 63537249,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280
+                "stars": 103279,
+                "topics": [
+                  "build-tools",
+                  "react",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -945,12 +1417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small project to quickly start with React, MobX, JSX, ES6, Babel",
+                "homepage": "http://mobxjs.github.io/mobx",
                 "id": 39756714,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-11-27T07:40:54Z",
+                "open_issues": 1,
                 "owner": "mobxjs",
                 "repo": "mobx-react-boilerplate",
-                "stars": 884
+                "stars": 884,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -961,12 +1438,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React, React-Router 4, MobX and Webpack 2-boilerplate with async routes.",
+                "homepage": null,
                 "id": 69919656,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-11-17T09:56:26Z",
+                "open_issues": 7,
                 "owner": "mhaagens",
                 "repo": "react-mobx-react-router4-boilerplate",
-                "stars": 556
+                "stars": 556,
+                "topics": [
+                  "async",
+                  "boilerplate",
+                  "lazy-loading",
+                  "mobx",
+                  "react",
+                  "react-router"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -977,12 +1466,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React, React-Router 4, MobX and Webpack 2-boilerplate with async routes.",
+                "homepage": null,
                 "id": 69919656,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-11-17T09:56:26Z",
+                "open_issues": 7,
                 "owner": "mhaagens",
                 "repo": "react-mobx-react-router4-boilerplate",
-                "stars": 556
+                "stars": 556,
+                "topics": [
+                  "async",
+                  "boilerplate",
+                  "lazy-loading",
+                  "mobx",
+                  "react",
+                  "react-router"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -993,12 +1494,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MobX connector for Angular.",
+                "homepage": null,
                 "id": 71633226,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-09T22:51:49Z",
+                "open_issues": 10,
                 "owner": "mobxjs",
                 "repo": "mobx-angular",
-                "stars": 482
+                "stars": 482,
+                "topics": [
+                  "angular",
+                  "angular-mobx",
+                  "angular2",
+                  "frontend",
+                  "mobx",
+                  "mobx-connector",
+                  "ng2-mobx"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1009,12 +1523,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RFX Stack - Universal App",
+                "homepage": null,
                 "id": 54644075,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-01-08T19:33:53Z",
+                "open_issues": 9,
                 "owner": "foxhound87",
                 "repo": "rfx-stack",
-                "stars": 421
+                "stars": 421,
+                "topics": [
+                  "feathers",
+                  "mobx",
+                  "react",
+                  "ssr",
+                  "stack",
+                  "universal"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1025,12 +1551,38 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🚀WordPress Plugin Boilerplate using modern web techs like TypeScript, SASS, and so on... on top of a local development environment with Docker and predefined GitLab CI for continous integration and deployment!",
+                "homepage": "https://devowl.io/wp-react-starter/",
                 "id": 109304183,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2021-04-23T06:14:11Z",
+                "open_issues": 10,
                 "owner": "devowlio",
                 "repo": "wp-react-starter",
-                "stars": 402
+                "stars": 402,
+                "topics": [
+                  "wordpress-boilerplate",
+                  "wordpress-continuous-integration",
+                  "wordpress-cypress",
+                  "wordpress-docker",
+                  "wordpress-gitlab-ci",
+                  "wordpress-i18n",
+                  "wordpress-jest",
+                  "wordpress-mobx",
+                  "wordpress-object-oriented-php",
+                  "wordpress-oop-php",
+                  "wordpress-phpunit",
+                  "wordpress-plugin",
+                  "wordpress-plugin-boilerplate",
+                  "wordpress-plugin-development",
+                  "wordpress-plugin-monorepo",
+                  "wordpress-plugin-skeleton",
+                  "wordpress-react",
+                  "wordpress-saas",
+                  "wordpress-skeleton",
+                  "wordpress-typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1041,12 +1593,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bare minimum frontend boilerplate with React 16.7, Typescript 3.2 and Webpack 4",
+                "homepage": null,
                 "id": 77510270,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-06T01:32:15Z",
+                "open_issues": 28,
                 "owner": "rokoroku",
                 "repo": "react-mobx-typescript-boilerplate",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "boilerplate",
+                  "mobx",
+                  "postcss",
+                  "react",
+                  "todomvc",
+                  "treeshaking",
+                  "typescript",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1057,12 +1623,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a starter-template with typescript, react, mobx and vite/webpack...",
+                "homepage": "https://starter.jackple.com/",
                 "id": 125148901,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-27T10:20:56Z",
+                "open_issues": 4,
                 "owner": "YDJ-FE",
                 "repo": "ts-react-vite_or_webpack",
-                "stars": 362
+                "stars": 362,
+                "topics": [
+                  "admin-dashboard",
+                  "admin-template",
+                  "mobx",
+                  "react",
+                  "starter-template",
+                  "typescript",
+                  "vite",
+                  "vitejs",
+                  "webpack5"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1073,12 +1654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React + RR4 + Mobx + Isomorphic starter.",
+                "homepage": null,
                 "id": 53614216,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-03-08T16:39:21Z",
+                "open_issues": 4,
                 "owner": "nightwolfz",
                 "repo": "mobx-starter",
-                "stars": 280
+                "stars": 280,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1089,12 +1675,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A straightforward starter for Node javascript web projects. Using Koa, MobX and ReactJS (with universal / isomorphic server rendering)",
+                "homepage": null,
                 "id": 64491156,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2017-04-24T10:20:45Z",
+                "open_issues": 1,
                 "owner": "lostpebble",
                 "repo": "koa-mobx-react-starter",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "babel",
+                  "javascript",
+                  "koa",
+                  "koa2",
+                  "mobx",
+                  "react",
+                  "react-router",
+                  "starters",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1105,12 +1706,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create React App with React Router 4 and MobX + Internationalization",
+                "homepage": "https://alexvcasillas.com",
                 "id": 84317988,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T15:15:17Z",
+                "open_issues": 26,
                 "owner": "alexvcasillas",
                 "repo": "react-mobx-router",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "create-react-app",
+                  "i18n",
+                  "internationalization",
+                  "mobx",
+                  "mobx-state-tree",
+                  "react",
+                  "react-create-app",
+                  "react-custom-scripts",
+                  "react-router"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1121,12 +1737,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean isomorphic starter-kit using Mobx + React + React-router + Webpack",
+                "homepage": null,
                 "id": 65092608,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-06-07T19:10:37Z",
+                "open_issues": 0,
                 "owner": "Xerios",
                 "repo": "mobx-isomorphic-starter",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "isomorphic-components",
+                  "mobx",
+                  "mongoose"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1137,12 +1762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MobX + React + JavaScript + Aphrodite + Enzyme + Mocha + Hot-Loading + Redux DevTools",
+                "homepage": null,
                 "id": 65202479,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-08T00:29:40Z",
+                "open_issues": 0,
                 "owner": "code-shoily",
                 "repo": "modular-mobx-boilerplate",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1153,12 +1783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Seed project for React + MobX",
+                "homepage": null,
                 "id": 61679634,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-15T19:35:30Z",
+                "open_issues": 3,
                 "owner": "sapientglobalmarkets",
                 "repo": "react-mobx-seed",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1169,12 +1804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate for React Native using MobX and react-navigation. ",
+                "homepage": null,
                 "id": 97020645,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2017-07-27T19:35:43Z",
+                "open_issues": 1,
                 "owner": "mjyoung",
                 "repo": "react-native-mobx-boilerplate",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1185,12 +1825,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Craft Template - MobX + React Router",
+                "homepage": null,
                 "id": 80847295,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-02-17T19:35:21Z",
+                "open_issues": 0,
                 "owner": "timarney",
                 "repo": "cra-mobx-reactrouter",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "create-react-app",
+                  "mobx",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1201,12 +1850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Boilerplate using Gulp, ES6 and SASS",
+                "homepage": null,
                 "id": 61891034,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-02-03T15:35:59Z",
+                "open_issues": 0,
                 "owner": "pixelkritzel",
                 "repo": "gulp_es6_sass_boilerplate",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             }
@@ -1224,12 +1878,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "React bindings for MobX",
+                "homepage": "https://mobx.js.org/react-integration.html",
                 "id": 41543133,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-30T16:19:32Z",
+                "open_issues": 0,
                 "owner": "mobxjs",
                 "repo": "mobx-react",
-                "stars": 4818
+                "stars": 4818,
+                "topics": [
+                  "javascript",
+                  "mobx",
+                  "react",
+                  "react-components",
+                  "reactive-programming"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1240,12 +1905,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lightweight React bindings for MobX based on React 16.8 and Hooks",
+                "homepage": "https://mobx.js.org/react-integration.html",
                 "id": 156963479,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-30T16:20:49Z",
+                "open_issues": 0,
                 "owner": "mobxjs",
                 "repo": "mobx-react-lite",
-                "stars": 2118
+                "stars": 2118,
+                "topics": [
+                  "mobx",
+                  "observables",
+                  "react",
+                  "react-hooks"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1256,12 +1931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility functions and common patterns for MobX",
+                "homepage": null,
                 "id": 65153061,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-25T08:58:44Z",
+                "open_issues": 36,
                 "owner": "mobxjs",
                 "repo": "mobx-utils",
-                "stars": 1219
+                "stars": 1219,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1272,12 +1952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serialize and deserialize complex object graphs to and from JSON and Javascript classes",
+                "homepage": null,
                 "id": 61741845,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-26T08:23:51Z",
+                "open_issues": 39,
                 "owner": "mobxjs",
                 "repo": "serializr",
-                "stars": 778
+                "stars": 778,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1288,12 +1973,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "persist mobx stores",
+                "homepage": null,
                 "id": 68986269,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-19T20:29:14Z",
+                "open_issues": 44,
                 "owner": "pinqy520",
                 "repo": "mobx-persist",
-                "stars": 553
+                "stars": 553,
+                "topics": [
+                  "mobx",
+                  "persist",
+                  "persistence",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1304,12 +2000,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple router for MobX + React apps",
+                "homepage": null,
                 "id": 68822229,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-05-13T09:53:33Z",
+                "open_issues": 29,
                 "owner": "kitze",
                 "repo": "mobx-router",
-                "stars": 504
+                "stars": 504,
+                "topics": [
+                  "history",
+                  "hooks",
+                  "lifecycle-events",
+                  "mobx",
+                  "react",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1320,12 +2028,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐉 Vue bindings for MobX",
+                "homepage": null,
                 "id": 134814022,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-02T18:07:01Z",
+                "open_issues": 22,
                 "owner": "mobxjs",
                 "repo": "mobx-vue",
-                "stars": 479
+                "stars": 479,
+                "topics": [
+                  "javascript",
+                  "mobx",
+                  "mobx-vue",
+                  "reactive-programming",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1336,12 +2055,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use Google Firestore in React with zero effort, using MobX 🤘",
+                "homepage": "https://ijzerenhein.github.io/firestorter",
                 "id": 109278152,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-07T10:39:58Z",
+                "open_issues": 23,
                 "owner": "IjzerenHein",
                 "repo": "firestorter",
-                "stars": 378
+                "stars": 378,
+                "topics": [
+                  "firestore-collection",
+                  "firestore-mobx",
+                  "firestore-models",
+                  "firestore-react",
+                  "firestoreter",
+                  "mox-firestore",
+                  "react-firestore"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1352,12 +2084,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MobX DevTools extension",
+                "homepage": null,
                 "id": 62446156,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-04-29T23:05:14Z",
+                "open_issues": 22,
                 "owner": "zalmoxisus",
                 "repo": "mobx-remotedev",
-                "stars": 330
+                "stars": 330,
+                "topics": [
+                  "devtools",
+                  "mobx",
+                  "react",
+                  "remotedev"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1368,12 +2110,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makes async function state management in MobX fun.",
+                "homepage": null,
                 "id": 82856657,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-21T23:21:08Z",
+                "open_issues": 1,
                 "owner": "jeffijoe",
                 "repo": "mobx-task",
-                "stars": 243
+                "stars": 243,
+                "topics": [
+                  "async-functions",
+                  "decorators",
+                  "mobx",
+                  "mobx-task"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1384,12 +2136,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Log Mobx Actions, Reactions, Transactions and Computations",
+                "homepage": "https://www.npmjs.com/package/mobx-logger",
                 "id": 66352269,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-04T15:10:13Z",
+                "open_issues": 22,
                 "owner": "winterbe",
                 "repo": "mobx-logger",
-                "stars": 233
+                "stars": 233,
+                "topics": [
+                  "javascript",
+                  "logger",
+                  "mobx"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1400,12 +2161,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST conventions for Mobx",
+                "homepage": null,
                 "id": 63106873,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T03:39:57Z",
+                "open_issues": 10,
                 "owner": "masylum",
                 "repo": "mobx-rest",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-rest",
+                  "mobx",
+                  "reactive",
+                  "rest",
+                  "state",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1416,12 +2191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Connect MobX data stores to functional stateless React components with async actions and unidirectional data flow.",
+                "homepage": null,
                 "id": 54317200,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-12-08T01:45:26Z",
+                "open_issues": 1,
                 "owner": "amsb",
                 "repo": "mobx-reactor",
-                "stars": 183
+                "stars": 183,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1432,12 +2212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Define a computed by returning a Promise",
+                "homepage": null,
                 "id": 77180421,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-07T02:19:56Z",
+                "open_issues": 14,
                 "owner": "danielearwicker",
                 "repo": "computed-async-mobx",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1448,12 +2233,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Several helper MobX decorators (setter, observe, save, ...)",
+                "homepage": null,
                 "id": 77037637,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-30T17:19:45Z",
+                "open_issues": 8,
                 "owner": "farwayer",
                 "repo": "mobx-decorators",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "mobx",
+                  "mobx-decorators",
+                  "mobx-setter"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1464,12 +2258,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MobX bindings for Preact",
+                "homepage": null,
                 "id": 69813718,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-13T22:11:44Z",
+                "open_issues": 6,
                 "owner": "mobxjs",
                 "repo": "mobx-preact",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "mobx",
+                  "mobx-preact",
+                  "preact"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1480,12 +2283,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple routing for your single page applications.",
+                "homepage": null,
                 "id": 84603404,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-04-03T06:23:31Z",
+                "open_issues": 0,
                 "owner": "elefanty",
                 "repo": "offramp",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "offramp"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1496,12 +2306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional structure for mobx",
+                "homepage": null,
                 "id": 69997799,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-07-14T05:39:15Z",
+                "open_issues": 0,
                 "owner": "danieldunderfelt",
                 "repo": "mobx-app",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1512,12 +2327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Store firebase data in mobx maps",
+                "homepage": null,
                 "id": 58261016,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-27T21:54:10Z",
+                "open_issues": 1,
                 "owner": "nyura123",
                 "repo": "mobx-firebase-store",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1528,12 +2348,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MobX integration for Vue.js.",
+                "homepage": null,
                 "id": 98971605,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-17T01:45:42Z",
+                "open_issues": 11,
                 "owner": "nighca",
                 "repo": "movue",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "mobx",
+                  "vue",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1544,12 +2373,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive MVVM with MobX & Svelte",
+                "homepage": null,
                 "id": 207109544,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-12-29T02:39:27Z",
+                "open_issues": 1,
                 "owner": "xelaok",
                 "repo": "svelte-mobx",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "mobx",
+                  "mvvm",
+                  "reactive",
+                  "state-management",
+                  "svelte"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1560,12 +2400,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive forms for applications running on React and MobX",
+                "homepage": "https://vict-shevchenko.github.io/reactive-mobx-form",
                 "id": 89348126,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:25:46Z",
+                "open_issues": 9,
                 "owner": "vict-shevchenko",
                 "repo": "reactive-mobx-form",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "forms",
+                  "mobx",
+                  "react",
+                  "reactive",
+                  "reactive-forms",
+                  "reactive-mobx-form",
+                  "validatorjs"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1576,12 +2429,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobx observables persistent across browser tabs/sessions",
+                "homepage": null,
                 "id": 48990899,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-12-26T14:35:40Z",
+                "open_issues": 1,
                 "owner": "capaj",
                 "repo": "mobx-stored",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "localstorage",
+                  "mobx",
+                  "mobx-observables",
+                  "single-page-applications"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1592,12 +2455,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React HOC with mediaqueries for responsive layout",
+                "homepage": null,
                 "id": 62246462,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T21:22:28Z",
+                "open_issues": 15,
                 "owner": "foxhound87",
                 "repo": "mobx-react-matchmedia",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "breakpoints",
+                  "mediaqueries",
+                  "mobx",
+                  "react",
+                  "responsive"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1608,12 +2482,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A connector between mobx-react and react-intl",
+                "homepage": null,
                 "id": 92101723,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-10-05T01:09:21Z",
+                "open_issues": 0,
                 "owner": "Sqooba",
                 "repo": "mobx-react-intl",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "format-message",
+                  "i18n",
+                  "internationalization",
+                  "javascript",
+                  "mobx",
+                  "mobx-react",
+                  "react",
+                  "react-intl",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1624,12 +2513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An observable data cache with MobX",
+                "homepage": null,
                 "id": 67773348,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2016-09-13T17:15:21Z",
+                "open_issues": 0,
                 "owner": "mdebbar",
                 "repo": "mobx-cache",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1640,12 +2534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Form library for MobX, with observable state and validations",
+                "homepage": null,
                 "id": 65816071,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-23T18:02:55Z",
+                "open_issues": 3,
                 "owner": "tomaash",
                 "repo": "mobx-input",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1656,12 +2555,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 81011778,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-09-02T15:30:42Z",
+                "open_issues": 2,
                 "owner": "mass3ff3ct",
                 "repo": "mobx-react-inject",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "inject",
+                  "mobx",
+                  "react",
+                  "reactjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1672,12 +2582,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Make React components translatable using MobX",
+                "homepage": null,
                 "id": 65007109,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-10-13T15:02:03Z",
+                "open_issues": 6,
                 "owner": "infinum",
                 "repo": "react-mobx-translatable",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "i18n",
+                  "internationalization",
+                  "mobx",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1688,12 +2608,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-config undo & redo for Mobx",
+                "homepage": null,
                 "id": 313319275,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-20T15:05:01Z",
+                "open_issues": 0,
                 "owner": "httptoolkit",
                 "repo": "mobx-shallow-undo",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "mobx",
+                  "mobx-react",
+                  "undo",
+                  "undo-redo"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1704,12 +2634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 172025795,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-30T09:48:45Z",
+                "open_issues": 4,
                 "owner": "metro-nom",
                 "repo": "mobx-binder",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1720,12 +2655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobx debounced autorun function with immediate synchronous first call",
+                "homepage": null,
                 "id": 60453459,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-06-08T13:30:19Z",
+                "open_issues": 0,
                 "owner": "dettier",
                 "repo": "mobx-autorun-async-immediate",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1736,12 +2676,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a simple observer decorator you can utilize with any react-like components",
+                "homepage": null,
                 "id": 63077779,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-07-12T17:57:44Z",
+                "open_issues": 0,
                 "owner": "capaj",
                 "repo": "mobx-observer",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1752,12 +2697,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 79061738,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-30T22:37:33Z",
+                "open_issues": 8,
                 "owner": "alexhisen",
                 "repo": "mobx-form-store",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1768,12 +2718,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation: https://rasdaniil.gitbooks.io/mobase/content/",
+                "homepage": null,
                 "id": 83252752,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-01-25T07:58:28Z",
+                "open_issues": 3,
                 "owner": "iamdanthedev",
                 "repo": "mobase",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "firebase",
+                  "firebase-database",
+                  "mobx"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1784,12 +2743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple alternative to react-redux",
+                "homepage": null,
                 "id": 96481760,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-07-13T00:40:23Z",
+                "open_issues": 0,
                 "owner": "ds300",
                 "repo": "redux-mobx-connect",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1800,12 +2764,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small library for handling forms with Mobx",
+                "homepage": "https://dumba-demo.netlify.app/",
                 "id": 358844368,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-24T19:55:48Z",
+                "open_issues": 11,
                 "owner": "ivandotv",
                 "repo": "dumba",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "form",
+                  "forms",
+                  "mobx",
+                  "mobx-form",
+                  "mobx-react",
+                  "mobx-react-lite",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1816,12 +2793,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GWT Java bindings for MobX",
+                "homepage": null,
                 "id": 57148392,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2017-04-27T02:40:03Z",
+                "open_issues": 0,
                 "owner": "GWTReact",
                 "repo": "gwt-mobx",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1832,12 +2814,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility library for binding MobX observables and observable collections to generic entities",
+                "homepage": null,
                 "id": 78285217,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-03-12T17:21:18Z",
+                "open_issues": 0,
                 "owner": "jamiewinder",
                 "repo": "mobx-bind",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "google-maps",
+                  "mobx"
+                ]
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
             },
@@ -1850,12 +2840,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Full-featured reactive state management without the boilerplate",
+                    "homepage": "https://mobx-state-tree.js.org/",
                     "id": 67361566,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T14:55:10Z",
+                    "open_issues": 102,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7053
+                    "stars": 7053,
+                    "topics": [
+                      "hacktoberfest",
+                      "mobx",
+                      "mobx-state-tree",
+                      "mst",
+                      "observable",
+                      "redux",
+                      "snapshot",
+                      "state-management",
+                      "state-tree"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1866,12 +2871,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more",
+                    "homepage": "https://mobx-keystone.js.org",
                     "id": 186887617,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T18:57:20Z",
+                    "open_issues": 23,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
-                    "stars": 622
+                    "stars": 622,
+                    "topics": [
+                      "data-trees",
+                      "frp",
+                      "functional-reactive-programming",
+                      "immutability",
+                      "mobx",
+                      "mobx-keystone",
+                      "mobx-state-tree",
+                      "mutability",
+                      "reactive",
+                      "snapshots",
+                      "state-management",
+                      "state-tree"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1882,12 +2905,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🐘 mobx model layer paradigm",
+                    "homepage": null,
                     "id": 99301797,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-07T17:33:35Z",
+                    "open_issues": 20,
                     "owner": "mmlpxjs",
                     "repo": "mmlpx",
-                    "stars": 179
+                    "stars": 179,
+                    "topics": [
+                      "architecture",
+                      "layers",
+                      "mobx",
+                      "mvvm",
+                      "paradigm",
+                      "snapshot",
+                      "time-travel"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1898,12 +2934,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection + Model infrastructure for MobX applications.",
+                    "homepage": null,
                     "id": 82486359,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-10-05T20:43:46Z",
+                    "open_issues": 7,
                     "owner": "jeffijoe",
                     "repo": "libx",
-                    "stars": 104
+                    "stars": 104,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1914,12 +2955,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple undo/redo and persistence for MobX",
+                    "homepage": null,
                     "id": 81075568,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2019-02-06T09:22:48Z",
+                    "open_issues": 3,
                     "owner": "danielearwicker",
                     "repo": "json-mobx",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "json",
+                      "mobx",
+                      "polymorphic",
+                      "reconciliation",
+                      "serialization"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1930,12 +2982,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simplify mobx data stores that mimic backend models",
+                    "homepage": "http://wearevolt.github.io/mobx-model",
                     "id": 49265310,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-25T08:44:50Z",
+                    "open_issues": 18,
                     "owner": "wearevolt",
                     "repo": "mobx-model",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1946,12 +3003,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "JSON API Store for MobX",
+                    "homepage": null,
                     "id": 65007177,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2020-12-10T17:47:02Z",
+                    "open_issues": 12,
                     "owner": "infinum",
                     "repo": "mobx-jsonapi-store",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "data",
+                      "data-structure",
+                      "json-api",
+                      "mobx",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1962,12 +3030,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Data collection store for MobX",
+                    "homepage": null,
                     "id": 76720456,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-30T17:16:50Z",
+                    "open_issues": 12,
                     "owner": "infinum",
                     "repo": "mobx-collection-store",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": [
+                      "collection",
+                      "data",
+                      "data-structure",
+                      "mobx",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1978,12 +3057,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MobX with support for models, relations and an external API.",
+                    "homepage": null,
                     "id": 80426034,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-08-01T13:51:21Z",
+                    "open_issues": 33,
                     "owner": "CodeYellowBV",
                     "repo": "mobx-spine",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1994,12 +3078,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ui5 bindings for mobx",
+                    "homepage": null,
                     "id": 73555516,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-01-28T14:42:15Z",
+                    "open_issues": 0,
                     "owner": "martwz",
                     "repo": "openui5-mobx-model",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "mobx",
+                      "mobx-observable",
+                      "mobx-ui5",
+                      "openui5",
+                      "sapui5"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -2010,12 +3105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mobx Model-Collection Library",
+                    "homepage": null,
                     "id": 202466097,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-29T07:34:47Z",
+                    "open_issues": 1,
                     "owner": "rakenapp",
                     "repo": "mobx-mc",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 }
@@ -2034,15 +3134,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:26:22.136Z",
+    "last_updated": "2026-08-29T04:23:48.315Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome things regarding MobX.",
+      "homepage": null,
       "id": 75948417,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-23T17:02:00Z",
+      "open_issues": 13,
       "owner": "mobxjs",
       "repo": "awesome-mobx",
-      "stars": 2186
+      "stars": 2186,
+      "topics": []
     },
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
     "enhanced_repository": "enhansome/enhansome-mobx",
