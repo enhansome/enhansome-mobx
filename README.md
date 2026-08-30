@@ -2,7 +2,7 @@
 
 ## Awesome MobX
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,978 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,283 | 🐛 105 | 📅 2026-08-21
 
 A collection of awesome things regarding MobX.
 
@@ -298,7 +298,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Example projects
 
-* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 141,985 | 🐛 3,635 | 🌐 JavaScript | 📅 2026-08-29
+* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 142,016 | 🐛 3,639 | 🌐 JavaScript | 📅 2026-08-30
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Flux challenge, implemeted with MobX](https://github.com/staltz/flux-challenge/tree/master/submissions/mweststrate) ⚠️ Archived
 * [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app) ⚠️ Archived
@@ -325,7 +325,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Contact list application (simple data fetching, routing, complex components, material UI)](https://github.com/mobxjs/mobx-contacts-list) ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-19
 * [A multiplayer card game built using socket.io, nodejs, typescript, react, mobx](https://github.com/shanmugharajk/react-card-game) ⭐ 67 | 🐛 2 | 🌐 TypeScript | 📅 2025-02-13
-* [Mortgage overpayment calculator using React with MobX](https://github.com/paulhoughton/mortgage-mobx) ⭐ 61 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-29
+* [Mortgage overpayment calculator using React with MobX](https://github.com/paulhoughton/mortgage-mobx) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2017-10-29
 * [Easy MobX example with React, MobX, Cosmic JS, shorti](https://github.com/tonyspiro/easy-mobx-example) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2016-07-13
 * [TypeScript example graphics editor: baltar](https://github.com/danielearwicker/baltar) ⭐ 43 | 🐛 0 | 🌐 TypeScript | 📅 2017-02-14
 * [React Native + Mobx sample app](https://github.com/winterbe/RNTimerExample) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2017-05-10
@@ -447,7 +447,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   React HOC with mediaqueries for responsive layout.
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) ⚠️ Archived
   Internationalization store and provider for
-  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-28
+  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-30
 * [mobx-cache](https://github.com/mdebbar/mobx-cache) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-13 An observable data cache
   with MobX
 * [mobx-input](https://github.com/tomaash/mobx-input) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-23 Form validation for MobX
@@ -532,4 +532,4 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

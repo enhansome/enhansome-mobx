@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T10:59:13Z",
-                    "open_issues": 3635,
+                    "last_commit": "2026-08-30T09:12:14Z",
+                    "open_issues": 3639,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 141985,
+                    "stars": 142016,
                     "topics": [
                       "blog",
                       "browser",
@@ -1082,7 +1082,7 @@
                     "open_issues": 0,
                     "owner": "paulhoughton",
                     "repo": "mortgage-mobx",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:39:40.644Z",
+    "last_updated": "2026-08-30T10:28:22.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
