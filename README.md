@@ -2,7 +2,7 @@
 
 ## Awesome MobX
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,283 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,584 | 🐛 105 | 📅 2026-08-21
 
 A collection of awesome things regarding MobX.
 
@@ -13,7 +13,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Key materials
 
 * How to use MobX with
-  [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
+  [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15:
   * Without ejecting, by using
     [react-app-rewired](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-mobx) ⭐ 9,841 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-11
   * Or,
@@ -269,7 +269,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 #### Public projects using MobX
 
 * [React-Game-Kit](https://github.com/FormidableLabs/react-game-kit) ⚠️ Archived
-* [SaaS Boilerplate](https://github.com/async-labs/saas) ⭐ 4,502 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Open source boilerplate app to build your own SaaS product.
+* [SaaS Boilerplate](https://github.com/async-labs/saas) ⭐ 4,503 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Open source boilerplate app to build your own SaaS product.
 * [PokemonGo webspoof](https://github.com/iam4x/pokemongo-webspoof/) ⭐ 2,126 | 🐛 152 | 🌐 JavaScript | 📅 2022-12-07 Play
   PokemonGo on your Mac
 * [Angular Tree Component](https://github.com/500tech/angular-tree-component) ⭐ 1,098 | 🐛 131 | 🌐 TypeScript | 📅 2024-07-17 - Angular Tree Component using MobX for managing the tree state
@@ -298,7 +298,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Example projects
 
-* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 142,016 | 🐛 3,639 | 🌐 JavaScript | 📅 2026-08-30
+* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 142,035 | 🐛 3,571 | 🌐 JavaScript | 📅 2026-08-31
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Flux challenge, implemeted with MobX](https://github.com/staltz/flux-challenge/tree/master/submissions/mweststrate) ⚠️ Archived
 * [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app) ⚠️ Archived
@@ -360,7 +360,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Boilerplates
 
 * [custom-react-scripts](https://www.npmjs.com/package/custom-react-scripts) for
-  [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,280 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 that
+  [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,279 | 🐛 2,409 | 🌐 JavaScript | 📅 2025-02-15 that
   enables using decorators; add `REACT_APP_DECORATORS=true` to `.env` to enable
   decorators.
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
@@ -430,7 +430,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mobx-decorators](https://github.com/farwayer/mobx-decorators) ⚠️ Archived Several helper
   MobX decorators (setter, observe, save, ...)
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
-* [MobX preact bindings](https://github.com/philmander/mobx-preact) ⭐ 128 | 🐛 6 | 🌐 JavaScript | 📅 2020-07-13
+* [MobX preact bindings](https://github.com/philmander/mobx-preact) ⭐ 127 | 🐛 6 | 🌐 JavaScript | 📅 2020-07-13
 * [offramp](https://github.com/elefanty/offramp) ⭐ 113 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-03 Simple routing for your single
   page applications
 * [mobx-app](https://github.com/danieldunderfelt/mobx-app) ⭐ 87 | 🐛 0 | 🌐 JavaScript | 📅 2018-07-14 A functional
@@ -447,7 +447,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   React HOC with mediaqueries for responsive layout.
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) ⚠️ Archived
   Internationalization store and provider for
-  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-30
+  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-31
 * [mobx-cache](https://github.com/mdebbar/mobx-cache) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-13 An observable data cache
   with MobX
 * [mobx-input](https://github.com/tomaash/mobx-input) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-23 Form validation for MobX
@@ -532,4 +532,4 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

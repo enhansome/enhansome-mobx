@@ -50,7 +50,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280,
+                "stars": 103279,
                 "topics": [
                   "build-tools",
                   "react",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4502,
+                    "stars": 4503,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T09:12:14Z",
-                    "open_issues": 3639,
+                    "last_commit": "2026-08-31T11:25:12Z",
+                    "open_issues": 3571,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142016,
+                    "stars": 142035,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103280,
+                "stars": 103279,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2267,7 +2267,7 @@
                 "open_issues": 6,
                 "owner": "mobxjs",
                 "repo": "mobx-preact",
-                "stars": 128,
+                "stars": 127,
                 "topics": [
                   "mobx",
                   "mobx-preact",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:28:22.507Z",
+    "last_updated": "2026-08-31T11:35:44.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
