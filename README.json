@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4503,
+                    "stars": 4504,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T08:49:44Z",
-                    "open_issues": 3345,
+                    "last_commit": "2026-09-04T09:38:18Z",
+                    "open_issues": 3271,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142072,
+                    "stars": 142088,
                     "topics": [
                       "blog",
                       "browser",
@@ -1503,7 +1503,7 @@
                 "open_issues": 10,
                 "owner": "mobxjs",
                 "repo": "mobx-angular",
-                "stars": 482,
+                "stars": 481,
                 "topics": [
                   "angular",
                   "angular-mobx",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:49:15.337Z",
+    "last_updated": "2026-09-04T09:38:34.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
