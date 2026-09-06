@@ -26,7 +26,7 @@
                     "open_issues": 24,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9840,
+                    "stars": 9841,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -50,7 +50,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103270,
+                "stars": 103271,
                 "topics": [
                   "build-tools",
                   "react",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4504,
+                    "stars": 4508,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-05T08:18:35Z",
-                    "open_issues": 3282,
+                    "last_commit": "2026-09-06T02:15:25Z",
+                    "open_issues": 3277,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142096,
+                    "stars": 142135,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103270,
+                "stars": 103271,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2849,7 +2849,7 @@
                     "open_issues": 100,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7053,
+                    "stars": 7054,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:04:18.815Z",
+    "last_updated": "2026-09-06T09:26:23.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
