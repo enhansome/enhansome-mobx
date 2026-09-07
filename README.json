@@ -50,7 +50,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103271,
+                "stars": 103266,
                 "topics": [
                   "build-tools",
                   "react",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T02:15:25Z",
-                    "open_issues": 3277,
+                    "last_commit": "2026-09-07T10:02:42Z",
+                    "open_issues": 3279,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142135,
+                    "stars": 142171,
                     "topics": [
                       "blog",
                       "browser",
@@ -830,7 +830,7 @@
                     "open_issues": 45,
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 441,
+                    "stars": 440,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -1401,7 +1401,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103271,
+                "stars": 103266,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2292,7 +2292,7 @@
                 "open_issues": 0,
                 "owner": "elefanty",
                 "repo": "offramp",
-                "stars": 113,
+                "stars": 112,
                 "topics": [
                   "offramp"
                 ]
@@ -2876,8 +2876,8 @@
                     "id": 186887617,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T21:13:18Z",
-                    "open_issues": 23,
+                    "last_commit": "2026-09-06T21:27:35Z",
+                    "open_issues": 24,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
                     "stars": 622,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:26:23.223Z",
+    "last_updated": "2026-09-07T10:16:57.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
