@@ -26,7 +26,7 @@
                     "open_issues": 24,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9840,
+                    "stars": 9839,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -50,7 +50,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103263,
+                "stars": 103264,
                 "topics": [
                   "build-tools",
                   "react",
@@ -103,7 +103,7 @@
                 "open_issues": 58,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28204,
+                "stars": 28205,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -130,7 +130,7 @@
                 "open_issues": 58,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28204,
+                "stars": 28205,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -288,7 +288,7 @@
                 "open_issues": 58,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28204,
+                "stars": 28205,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -324,7 +324,7 @@
                     "open_issues": 58,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28204,
+                    "stars": 28205,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -386,7 +386,7 @@
                     "open_issues": 58,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28204,
+                    "stars": 28205,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T09:42:43Z",
-                    "open_issues": 3304,
+                    "last_commit": "2026-09-10T09:38:17Z",
+                    "open_issues": 3334,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142234,
+                    "stars": 142216,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103263,
+                "stars": 103264,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2849,7 +2849,7 @@
                     "open_issues": 100,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7054,
+                    "stars": 7053,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -2876,7 +2876,7 @@
                     "id": 186887617,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T14:04:42Z",
+                    "last_commit": "2026-09-09T22:31:20Z",
                     "open_issues": 23,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:44:47.113Z",
+    "last_updated": "2026-09-10T09:43:17.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
