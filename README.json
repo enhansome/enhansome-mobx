@@ -50,7 +50,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103264,
+                "stars": 103259,
                 "topics": [
                   "build-tools",
                   "react",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T09:38:17Z",
-                    "open_issues": 3334,
+                    "last_commit": "2026-09-11T09:13:14Z",
+                    "open_issues": 3339,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142216,
+                    "stars": 142231,
                     "topics": [
                       "blog",
                       "browser",
@@ -830,7 +830,7 @@
                     "open_issues": 45,
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 440,
+                    "stars": 439,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -1401,7 +1401,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103264,
+                "stars": 103259,
                 "topics": [
                   "build-tools",
                   "react",
@@ -1940,7 +1940,7 @@
                 "open_issues": 37,
                 "owner": "mobxjs",
                 "repo": "mobx-utils",
-                "stars": 1219,
+                "stars": 1218,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
@@ -2849,7 +2849,7 @@
                     "open_issues": 100,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7053,
+                    "stars": 7052,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -2876,7 +2876,7 @@
                     "id": 186887617,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T22:31:20Z",
+                    "last_commit": "2026-09-10T14:57:19Z",
                     "open_issues": 23,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:43:17.467Z",
+    "last_updated": "2026-09-11T09:40:28.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
