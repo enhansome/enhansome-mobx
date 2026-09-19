@@ -2,7 +2,7 @@
 
 ## Awesome MobX
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,309 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,662 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome things regarding MobX.
 
@@ -13,7 +13,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Key materials
 
 * How to use MobX with
-  [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,256 | 🐛 2,412 | 🌐 JavaScript | 📅 2025-02-15:
+  [Create React App](https://github.com/facebookincubator/create-react-app) ⭐ 103,254 | 🐛 2,412 | 🌐 JavaScript | 📅 2025-02-15:
   * Without ejecting, by using
     [react-app-rewired](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-mobx) ⭐ 9,839 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-13
   * Or,
@@ -272,7 +272,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [SaaS Boilerplate](https://github.com/async-labs/saas) ⭐ 4,510 | 🐛 20 | 🌐 TypeScript | 📅 2025-03-21 - Open source boilerplate app to build your own SaaS product.
 * [PokemonGo webspoof](https://github.com/iam4x/pokemongo-webspoof/) ⭐ 2,125 | 🐛 145 | 🌐 JavaScript | 📅 2022-12-07 Play
   PokemonGo on your Mac
-* [Angular Tree Component](https://github.com/500tech/angular-tree-component) ⭐ 1,099 | 🐛 131 | 🌐 TypeScript | 📅 2024-07-17 - Angular Tree Component using MobX for managing the tree state
+* [Angular Tree Component](https://github.com/500tech/angular-tree-component) ⭐ 1,098 | 🐛 131 | 🌐 TypeScript | 📅 2024-07-17 - Angular Tree Component using MobX for managing the tree state
 * SoundCloud Client in React + MobX:
   [Source](https://github.com/rwieruch/favesound-mobx) ⭐ 519 | 🐛 3 | 🌐 JavaScript | 📅 2018-10-25 and
   [Live](http://www.favesound.de/)
@@ -298,7 +298,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Example projects
 
-* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 142,336 | 🐛 3,421 | 🌐 JavaScript | 📅 2026-09-18
+* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 142,348 | 🐛 3,453 | 🌐 JavaScript | 📅 2026-09-19
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Flux challenge, implemeted with MobX](https://github.com/staltz/flux-challenge/tree/master/submissions/mweststrate) ⚠️ Archived
 * [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app) ⚠️ Archived
@@ -360,15 +360,15 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Boilerplates
 
 * [custom-react-scripts](https://www.npmjs.com/package/custom-react-scripts) for
-  [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,256 | 🐛 2,412 | 🌐 JavaScript | 📅 2025-02-15 that
+  [create-react-app](https://github.com/facebookincubator/create-react-app) ⭐ 103,254 | 🐛 2,412 | 🌐 JavaScript | 📅 2025-02-15 that
   enables using decorators; add `REACT_APP_DECORATORS=true` to `.env` to enable
   decorators.
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [React, Babel, Webpack](https://github.com/mweststrate/react-mobservable-boilerplate) ⭐ 884 | 🐛 1 | 🌐 JavaScript | 📅 2019-11-27
-* [React, React-Router 4, MobX and Webpack 2-boilerplate with async routes](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) ⭐ 556 | 🐛 7 | 🌐 JavaScript | 📅 2019-11-17
-* [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) ⭐ 556 | 🐛 7 | 🌐 JavaScript | 📅 2019-11-17
+* [React, React-Router 4, MobX and Webpack 2-boilerplate with async routes](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) ⭐ 555 | 🐛 7 | 🌐 JavaScript | 📅 2019-11-17
+* [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) ⭐ 555 | 🐛 7 | 🌐 JavaScript | 📅 2019-11-17
   React MobX React-Router 4 Boilerplate
-* [ng2-mobx](https://github.com/500tech/ng2-mobx) ⭐ 481 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-09 MobX connector for Angular
+* [ng2-mobx](https://github.com/500tech/ng2-mobx) ⭐ 480 | 🐛 10 | 🌐 TypeScript | 📅 2024-12-09 MobX connector for Angular
   (aka Angular 2+) ([npm](https://www.npmjs.com/package/ng2-mobx))
 * [rfx-stack](https://github.com/foxhound87/rfx-stack) ⭐ 421 | 🐛 9 | 🌐 JavaScript | 📅 2018-01-08 RFX Stack - Universal App
   featuring: React + Feathers + MobX
@@ -402,7 +402,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 * [MobX react bindings](https://github.com/mobxjs/mobx-react) ⚠️ Archived
 * [MobX react bindings with Hooks support](https://github.com/mobxjs/mobx-react-lite) ⚠️ Archived
-* [mobx-utils](https://github.com/mobxjs/mobx-utils) ⭐ 1,219 | 🐛 38 | 🌐 TypeScript | 📅 2025-06-25 Utility belt for MobX with
+* [mobx-utils](https://github.com/mobxjs/mobx-utils) ⭐ 1,218 | 🐛 38 | 🌐 TypeScript | 📅 2025-06-25 Utility belt for MobX with
   several common patterns, like subscribing to external resources, converting
   promises etc.
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
@@ -447,7 +447,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   React HOC with mediaqueries for responsive layout.
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) ⚠️ Archived
   Internationalization store and provider for
-  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,744 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-18
+  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,745 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-19
 * [mobx-cache](https://github.com/mdebbar/mobx-cache) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-13 An observable data cache
   with MobX
 * [mobx-input](https://github.com/tomaash/mobx-input) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-23 Form validation for MobX
@@ -532,4 +532,4 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

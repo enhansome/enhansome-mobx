@@ -50,7 +50,7 @@
                 "open_issues": 2412,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103256,
+                "stars": 103254,
                 "topics": [
                   "build-tools",
                   "react",
@@ -520,7 +520,7 @@
                     "open_issues": 131,
                     "owner": "CirclonGroup",
                     "repo": "angular-tree-component",
-                    "stars": 1099,
+                    "stars": 1098,
                     "topics": [
                       "angular",
                       "angular2",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T09:38:23Z",
-                    "open_issues": 3421,
+                    "last_commit": "2026-09-19T08:29:21Z",
+                    "open_issues": 3453,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142336,
+                    "stars": 142348,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2412,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103256,
+                "stars": 103254,
                 "topics": [
                   "build-tools",
                   "react",
@@ -1447,7 +1447,7 @@
                 "open_issues": 7,
                 "owner": "mhaagens",
                 "repo": "react-mobx-react-router4-boilerplate",
-                "stars": 556,
+                "stars": 555,
                 "topics": [
                   "async",
                   "boilerplate",
@@ -1475,7 +1475,7 @@
                 "open_issues": 7,
                 "owner": "mhaagens",
                 "repo": "react-mobx-react-router4-boilerplate",
-                "stars": 556,
+                "stars": 555,
                 "topics": [
                   "async",
                   "boilerplate",
@@ -1503,7 +1503,7 @@
                 "open_issues": 10,
                 "owner": "mobxjs",
                 "repo": "mobx-angular",
-                "stars": 481,
+                "stars": 480,
                 "topics": [
                   "angular",
                   "angular-mobx",
@@ -1940,7 +1940,7 @@
                 "open_issues": 38,
                 "owner": "mobxjs",
                 "repo": "mobx-utils",
-                "stars": 1219,
+                "stars": 1218,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:45:36.771Z",
+    "last_updated": "2026-09-19T09:30:01.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
@@ -3146,7 +3146,7 @@
       "open_issues": 13,
       "owner": "mobxjs",
       "repo": "awesome-mobx",
-      "stars": 2186,
+      "stars": 2184,
       "topics": []
     },
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
