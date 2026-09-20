@@ -26,7 +26,7 @@
                     "open_issues": 24,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9839,
+                    "stars": 9838,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -47,10 +47,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2412,
+                "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103254,
+                "stars": 103257,
                 "topics": [
                   "build-tools",
                   "react",
@@ -427,7 +427,7 @@
                     "open_issues": 28,
                     "owner": "FormidableLabs",
                     "repo": "react-game-kit",
-                    "stars": 4600,
+                    "stars": 4601,
                     "topics": [
                       "component-tree",
                       "game",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4510,
+                    "stars": 4511,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-19T08:29:21Z",
-                    "open_issues": 3453,
+                    "last_commit": "2026-09-20T05:46:08Z",
+                    "open_issues": 3460,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142348,
+                    "stars": 142390,
                     "topics": [
                       "blog",
                       "browser",
@@ -1398,10 +1398,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2412,
+                "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103254,
+                "stars": 103257,
                 "topics": [
                   "build-tools",
                   "react",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:30:01.124Z",
+    "last_updated": "2026-09-20T09:48:31.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
