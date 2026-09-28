@@ -47,7 +47,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2410,
+                "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
                 "stars": 103250,
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4516,
+                    "stars": 4517,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-27T09:38:22Z",
-                    "open_issues": 3503,
+                    "last_commit": "2026-09-28T11:35:33Z",
+                    "open_issues": 3525,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142745,
+                    "stars": 142827,
                     "topics": [
                       "blog",
                       "browser",
@@ -1398,7 +1398,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2410,
+                "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
                 "stars": 103250,
@@ -2849,7 +2849,7 @@
                     "open_issues": 100,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7053,
+                    "stars": 7052,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:33:13.348Z",
+    "last_updated": "2026-09-28T11:41:10.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
