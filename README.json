@@ -26,7 +26,7 @@
                     "open_issues": 24,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9839,
+                    "stars": 9836,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -50,7 +50,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103250,
+                "stars": 103251,
                 "topics": [
                   "build-tools",
                   "react",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T11:35:33Z",
-                    "open_issues": 3525,
+                    "last_commit": "2026-09-29T11:20:33Z",
+                    "open_issues": 3535,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 142827,
+                    "stars": 142883,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2411,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103250,
+                "stars": 103251,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2037,7 +2037,7 @@
                 "open_issues": 22,
                 "owner": "mobxjs",
                 "repo": "mobx-vue",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:41:10.307Z",
+    "last_updated": "2026-09-29T11:21:43.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
@@ -3146,7 +3146,7 @@
       "open_issues": 13,
       "owner": "mobxjs",
       "repo": "awesome-mobx",
-      "stars": 2185,
+      "stars": 2184,
       "topics": []
     },
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
