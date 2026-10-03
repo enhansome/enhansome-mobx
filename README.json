@@ -22,8 +22,8 @@
                     "id": 65231883,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-13T07:17:50Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-10-03T08:24:28Z",
+                    "open_issues": 25,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
                     "stars": 9836,
@@ -50,7 +50,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103231,
+                "stars": 103233,
                 "topics": [
                   "build-tools",
                   "react",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T04:40:43Z",
+                    "last_commit": "2026-10-03T08:55:37Z",
                     "open_issues": 3532,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143020,
+                    "stars": 143035,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103231,
+                "stars": 103233,
                 "topics": [
                   "build-tools",
                   "react",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:53.639Z",
+    "last_updated": "2026-10-03T10:24:31.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
