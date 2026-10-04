@@ -50,7 +50,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103233,
+                "stars": 103232,
                 "topics": [
                   "build-tools",
                   "react",
@@ -100,10 +100,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:02:29Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28210,
+                "stars": 28211,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -127,10 +127,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:02:29Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28210,
+                "stars": 28211,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -285,10 +285,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:02:29Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28210,
+                "stars": 28211,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -321,10 +321,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-02T18:02:29Z",
-                    "open_issues": 43,
+                    "open_issues": 44,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28210,
+                    "stars": 28211,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -383,10 +383,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-02T18:02:29Z",
-                    "open_issues": 43,
+                    "open_issues": 44,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28210,
+                    "stars": 28211,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -427,7 +427,7 @@
                     "open_issues": 28,
                     "owner": "FormidableLabs",
                     "repo": "react-game-kit",
-                    "stars": 4602,
+                    "stars": 4603,
                     "topics": [
                       "component-tree",
                       "game",
@@ -489,7 +489,7 @@
                   "description": "Play PokemonGo on your Mac",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "👾 Play Pokémon Go from your Mac",
                     "homepage": null,
                     "id": 63454075,
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T08:55:37Z",
-                    "open_issues": 3532,
+                    "last_commit": "2026-10-04T01:50:15Z",
+                    "open_issues": 3537,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143035,
+                    "stars": 143124,
                     "topics": [
                       "blog",
                       "browser",
@@ -830,7 +830,7 @@
                     "open_issues": 45,
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 439,
+                    "stars": 440,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -1401,7 +1401,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103233,
+                "stars": 103232,
                 "topics": [
                   "build-tools",
                   "react",
@@ -1663,7 +1663,7 @@
                 "open_issues": 4,
                 "owner": "nightwolfz",
                 "repo": "mobx-starter",
-                "stars": 280,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
@@ -2876,11 +2876,11 @@
                     "id": 186887617,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T04:09:07Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-10-03T23:39:21Z",
+                    "open_issues": 14,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
-                    "stars": 623,
+                    "stars": 624,
                     "topics": [
                       "data-trees",
                       "frp",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:24:31.551Z",
+    "last_updated": "2026-10-04T11:06:15.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
