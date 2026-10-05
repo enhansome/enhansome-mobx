@@ -50,7 +50,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103232,
+                "stars": 103235,
                 "topics": [
                   "build-tools",
                   "react",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4517,
+                    "stars": 4516,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -499,7 +499,7 @@
                     "open_issues": 145,
                     "owner": "iam4x",
                     "repo": "pokemongo-webspoof",
-                    "stars": 2125,
+                    "stars": 2124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-04T01:50:15Z",
-                    "open_issues": 3537,
+                    "last_commit": "2026-10-05T12:10:08Z",
+                    "open_issues": 3546,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143124,
+                    "stars": 143186,
                     "topics": [
                       "blog",
                       "browser",
@@ -761,7 +761,7 @@
                     "open_issues": 34,
                     "owner": "gothinkster",
                     "repo": "react-mobx-realworld-example-app",
-                    "stars": 1243,
+                    "stars": 1242,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -1401,7 +1401,7 @@
                 "open_issues": 2410,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103232,
+                "stars": 103235,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2849,7 +2849,7 @@
                     "open_issues": 100,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7052,
+                    "stars": 7051,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -2876,8 +2876,8 @@
                     "id": 186887617,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T23:39:21Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-04T22:49:22Z",
+                    "open_issues": 15,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
                     "stars": 624,
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:06:15.112Z",
+    "last_updated": "2026-10-05T12:16:10.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
