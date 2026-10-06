@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T10:55:03Z",
-                    "open_issues": 3525,
+                    "last_commit": "2026-10-06T11:54:33Z",
+                    "open_issues": 3527,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143220,
+                    "stars": 143226,
                     "topics": [
                       "blog",
                       "browser",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:59:20.361Z",
+    "last_updated": "2026-10-06T12:01:27.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",

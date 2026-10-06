@@ -2,7 +2,7 @@
 
 ## Awesome MobX
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,370 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,392 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome things regarding MobX.
 
@@ -298,7 +298,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Example projects
 
-* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 143,220 | 🐛 3,525 | 🌐 JavaScript | 📅 2026-10-06
+* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 143,226 | 🐛 3,527 | 🌐 JavaScript | 📅 2026-10-06
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Flux challenge, implemeted with MobX](https://github.com/staltz/flux-challenge/tree/master/submissions/mweststrate) ⚠️ Archived
 * [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app) ⚠️ Archived
