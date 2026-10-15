@@ -50,7 +50,7 @@
                 "open_issues": 2408,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103222,
+                "stars": 103226,
                 "topics": [
                   "build-tools",
                   "react",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4524,
+                    "stars": 4526,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -499,7 +499,7 @@
                     "open_issues": 145,
                     "owner": "iam4x",
                     "repo": "pokemongo-webspoof",
-                    "stars": 2126,
+                    "stars": 2125,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T10:03:34Z",
-                    "open_issues": 3669,
+                    "last_commit": "2026-10-15T09:46:19Z",
+                    "open_issues": 3665,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143249,
+                    "stars": 143020,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2408,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103222,
+                "stars": 103226,
                 "topics": [
                   "build-tools",
                   "react",
@@ -1887,7 +1887,7 @@
                 "open_issues": 0,
                 "owner": "mobxjs",
                 "repo": "mobx-react",
-                "stars": 4818,
+                "stars": 4817,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T10:11:17.770Z",
+    "last_updated": "2026-10-15T09:53:44.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
