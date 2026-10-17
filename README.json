@@ -26,7 +26,7 @@
                     "open_issues": 25,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9835,
+                    "stars": 9836,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -50,7 +50,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103224,
+                "stars": 103225,
                 "topics": [
                   "build-tools",
                   "react",
@@ -100,10 +100,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T15:40:35Z",
-                "open_issues": 28,
+                "open_issues": 30,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28213,
+                "stars": 28214,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -127,10 +127,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T15:40:35Z",
-                "open_issues": 28,
+                "open_issues": 30,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28213,
+                "stars": 28214,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -285,10 +285,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-13T15:40:35Z",
-                "open_issues": 28,
+                "open_issues": 30,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28213,
+                "stars": 28214,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -321,10 +321,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-13T15:40:35Z",
-                    "open_issues": 28,
+                    "open_issues": 30,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28213,
+                    "stars": 28214,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -383,10 +383,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-13T15:40:35Z",
-                    "open_issues": 28,
+                    "open_issues": 30,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28213,
+                    "stars": 28214,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -427,7 +427,7 @@
                     "open_issues": 28,
                     "owner": "FormidableLabs",
                     "repo": "react-game-kit",
-                    "stars": 4605,
+                    "stars": 4604,
                     "topics": [
                       "component-tree",
                       "game",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T09:43:51Z",
-                    "open_issues": 3663,
+                    "last_commit": "2026-10-17T07:02:17Z",
+                    "open_issues": 3683,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143035,
+                    "stars": 143048,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103224,
+                "stars": 103225,
                 "topics": [
                   "build-tools",
                   "react",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:47:48.444Z",
+    "last_updated": "2026-10-17T09:20:11.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
@@ -3146,7 +3146,7 @@
       "open_issues": 13,
       "owner": "mobxjs",
       "repo": "awesome-mobx",
-      "stars": 2184,
+      "stars": 2185,
       "topics": []
     },
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
