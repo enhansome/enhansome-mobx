@@ -50,7 +50,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103226,
+                "stars": 103233,
                 "topics": [
                   "build-tools",
                   "react",
@@ -103,7 +103,7 @@
                 "open_issues": 29,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28215,
+                "stars": 28214,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -130,7 +130,7 @@
                 "open_issues": 29,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28215,
+                "stars": 28214,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -288,7 +288,7 @@
                 "open_issues": 29,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28215,
+                "stars": 28214,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -324,7 +324,7 @@
                     "open_issues": 29,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28215,
+                    "stars": 28214,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -386,7 +386,7 @@
                     "open_issues": 29,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28215,
+                    "stars": 28214,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4527,
+                    "stars": 4526,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T08:24:11Z",
-                    "open_issues": 3697,
+                    "last_commit": "2026-10-19T10:44:06Z",
+                    "open_issues": 3699,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143062,
+                    "stars": 143087,
                     "topics": [
                       "blog",
                       "browser",
@@ -1401,7 +1401,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103226,
+                "stars": 103233,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2849,7 +2849,7 @@
                     "open_issues": 106,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7054,
+                    "stars": 7053,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -3134,7 +3134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:36:51.947Z",
+    "last_updated": "2026-10-19T10:45:44.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
