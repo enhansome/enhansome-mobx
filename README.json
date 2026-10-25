@@ -26,7 +26,7 @@
                     "open_issues": 25,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9835,
+                    "stars": 9836,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -50,7 +50,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103239,
+                "stars": 103242,
                 "topics": [
                   "build-tools",
                   "react",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4530,
+                    "stars": 4529,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -520,7 +520,7 @@
                     "open_issues": 130,
                     "owner": "CirclonGroup",
                     "repo": "angular-tree-component",
-                    "stars": 1097,
+                    "stars": 1098,
                     "topics": [
                       "angular",
                       "angular2",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T07:50:07Z",
-                    "open_issues": 3764,
+                    "last_commit": "2026-10-25T09:47:54Z",
+                    "open_issues": 3758,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143214,
+                    "stars": 143224,
                     "topics": [
                       "blog",
                       "browser",
@@ -821,17 +821,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Accounting System built in ASP.NET DotNetCore, ReactJS, MobX. Don't forget to click STAR if you like this project.",
-                    "homepage": "https://accountgo-web.anter.workers.dev/",
+                    "description": "Modern multi-tenant cloud ERP and accounting suite built with .NET 10, React 19, and Tailwind CSS v4 on Cloudflare Workers & Containers.",
+                    "homepage": "https://app.accountgo.dev",
                     "id": 29806722,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T09:14:30Z",
+                    "last_commit": "2026-10-25T09:38:00Z",
                     "open_issues": 0,
                     "owner": "AccountGo",
                     "repo": "accountgo",
                     "stars": 440,
-                    "topics": []
+                    "topics": [
+                      "accounting",
+                      "cloudflare-workers",
+                      "dotnet",
+                      "erp",
+                      "multi-tenant",
+                      "react"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
                 },
@@ -1401,7 +1408,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103239,
+                "stars": 103242,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2005,7 +2012,7 @@
                 "id": 68822229,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-23T19:28:51Z",
+                "last_commit": "2026-10-25T06:02:16Z",
                 "open_issues": 20,
                 "owner": "kitze",
                 "repo": "mobx-router",
@@ -2849,7 +2856,7 @@
                     "open_issues": 98,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7056,
+                    "stars": 7055,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -2876,7 +2883,7 @@
                     "id": 186887617,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T00:02:09Z",
+                    "last_commit": "2026-10-25T00:49:51Z",
                     "open_issues": 16,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
@@ -3134,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:31:31.843Z",
+    "last_updated": "2026-10-25T09:48:02.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
