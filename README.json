@@ -50,7 +50,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103242,
+                "stars": 103240,
                 "topics": [
                   "build-tools",
                   "react",
@@ -103,7 +103,7 @@
                 "open_issues": 19,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28214,
+                "stars": 28213,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -130,7 +130,7 @@
                 "open_issues": 19,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28214,
+                "stars": 28213,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -288,7 +288,7 @@
                 "open_issues": 19,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28214,
+                "stars": 28213,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -324,7 +324,7 @@
                     "open_issues": 19,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28214,
+                    "stars": 28213,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -386,7 +386,7 @@
                     "open_issues": 19,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28214,
+                    "stars": 28213,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4529,
+                    "stars": 4530,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T09:47:54Z",
-                    "open_issues": 3758,
+                    "last_commit": "2026-10-26T11:02:59Z",
+                    "open_issues": 3755,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143224,
+                    "stars": 143296,
                     "topics": [
                       "blog",
                       "browser",
@@ -825,8 +825,8 @@
                     "homepage": "https://app.accountgo.dev",
                     "id": 29806722,
                     "language": "C#",
-                    "license": "MIT",
-                    "last_commit": "2026-10-25T09:38:00Z",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-10-26T09:39:06Z",
                     "open_issues": 0,
                     "owner": "AccountGo",
                     "repo": "accountgo",
@@ -1408,7 +1408,7 @@
                 "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103242,
+                "stars": 103240,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2012,7 +2012,7 @@
                 "id": 68822229,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-25T06:02:16Z",
+                "last_commit": "2026-10-26T08:17:34Z",
                 "open_issues": 20,
                 "owner": "kitze",
                 "repo": "mobx-router",
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:48:02.432Z",
+    "last_updated": "2026-10-26T11:06:02.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
