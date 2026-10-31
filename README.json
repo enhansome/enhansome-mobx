@@ -103,7 +103,7 @@
                 "open_issues": 20,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28218,
+                "stars": 28219,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -130,7 +130,7 @@
                 "open_issues": 20,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28218,
+                "stars": 28219,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -288,7 +288,7 @@
                 "open_issues": 20,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28218,
+                "stars": 28219,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -324,7 +324,7 @@
                     "open_issues": 20,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28218,
+                    "stars": 28219,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -386,7 +386,7 @@
                     "open_issues": 20,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28218,
+                    "stars": 28219,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -427,7 +427,7 @@
                     "open_issues": 28,
                     "owner": "FormidableLabs",
                     "repo": "react-game-kit",
-                    "stars": 4602,
+                    "stars": 4603,
                     "topics": [
                       "component-tree",
                       "game",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T10:51:09Z",
-                    "open_issues": 3775,
+                    "last_commit": "2026-10-31T10:49:25Z",
+                    "open_issues": 3778,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143204,
+                    "stars": 143265,
                     "topics": [
                       "blog",
                       "browser",
@@ -826,7 +826,7 @@
                     "id": 29806722,
                     "language": "C#",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-30T11:13:16Z",
+                    "last_commit": "2026-10-31T08:53:02Z",
                     "open_issues": 5,
                     "owner": "AccountGo",
                     "repo": "accountgo",
@@ -2853,7 +2853,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-23T17:51:45Z",
-                    "open_issues": 98,
+                    "open_issues": 99,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
                     "stars": 7053,
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:23:13.146Z",
+    "last_updated": "2026-10-31T10:54:58.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",

@@ -2,7 +2,7 @@
 
 ## Awesome MobX
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,114 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,714 | 🐛 105 | 📅 2026-09-02
 
 A collection of awesome things regarding MobX.
 
@@ -57,8 +57,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ### Official Resources
 
-* [GitHub Repo](https://github.com/mobxjs/mobx) ⭐ 28,218 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
-* [Release Notes](https://github.com/mobxjs/mobx/blob/master/CHANGELOG.md) ⭐ 28,218 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
+* [GitHub Repo](https://github.com/mobxjs/mobx) ⭐ 28,219 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
+* [Release Notes](https://github.com/mobxjs/mobx/blob/master/CHANGELOG.md) ⭐ 28,219 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
 * [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
 * [Documentation](https://mobxjs.github.io/mobx/)
 * [Free Egghead.io course: Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
@@ -82,7 +82,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ### FAQ
 
-* [Importing store directly or pass as props?](https://github.com/mobxjs/mobx/issues/300) ⭐ 28,218 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
+* [Importing store directly or pass as props?](https://github.com/mobxjs/mobx/issues/300) ⭐ 28,219 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
 
 ### Publications
 
@@ -93,7 +93,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 #### Videos
 
 * [Understanding MobX versus Redux](https://www.youtube.com/watch?v=83v8cdvGfeA)
-  (related thread: <https://github.com/mobxjs/mobx/issues/199> ⭐ 28,218 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28)
+  (related thread: <https://github.com/mobxjs/mobx/issues/199> ⭐ 28,219 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28)
 * [Free Egghead.io course: Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 * LearnCode.academy MobX tutorial
   [Part I: MobX + React is AWESOME (7m)](https://www.youtube.com/watch?v=_q50BXqkAfI)
@@ -181,7 +181,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Blogs
 
-* [Understanding MobX and when to use it (Github issue)](https://github.com/mobxjs/mobx/issues/199) ⭐ 28,218 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
+* [Understanding MobX and when to use it (Github issue)](https://github.com/mobxjs/mobx/issues/199) ⭐ 28,219 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-28
 * [Automagically manage React forms state and automatic validation with MobX](https://medium.com/@foxhound87/automagically-manage-react-forms-state-with-mobx-and-automatic-validation-2b00a32b9769)
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Optimising React rendering - tips to optimise rendering of a set of elements in React](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae#.ijw98ktg5)
@@ -298,7 +298,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Example projects
 
-* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 143,204 | 🐛 3,775 | 🌐 JavaScript | 📅 2026-10-30
+* [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx) ⭐ 143,265 | 🐛 3,778 | 🌐 JavaScript | 📅 2026-10-31
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Flux challenge, implemeted with MobX](https://github.com/staltz/flux-challenge/tree/master/submissions/mweststrate) ⚠️ Archived
 * [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app) ⚠️ Archived
@@ -307,7 +307,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [TodoMVC application, including Server Side Rendering](https://github.com/mobxjs/mobx-react-todomvc) ⭐ 499 | 🐛 2 | 🌐 JavaScript | 📅 2021-10-09
 * Accounting System built in ASP.NET MVC, ReactJS, MobX
   [Demo](http://www.accountgo.ph/)
-  [Source](https://github.com/AccountGo/accountgo) ⭐ 440 | 🐛 5 | 🌐 C# | 📅 2026-10-30
+  [Source](https://github.com/AccountGo/accountgo) ⭐ 440 | 🐛 5 | 🌐 C# | 📅 2026-10-31
 * [Simple ES5 MobX examples](https://github.com/mattruby/mobx-examples) ⭐ 286 | 🐛 6 | 📅 2026-02-13 Bite
   sized MobX examples all setup to run in jsFiddle.
 * [A social mobile messaging marketplace app using React Native, Firebase, Mobx, CodePush, OneSignal](https://jsapp.me/a-social-mobile-messaging-marketplace-app-using-react-native-firebase-mobx-codepush-onesignal-fad105e70fc1)
@@ -447,7 +447,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   React HOC with mediaqueries for responsive layout.
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) ⚠️ Archived
   Internationalization store and provider for
-  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,751 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-30
+  [react-intl](https://github.com/yahoo/react-intl) ⭐ 14,753 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-31
 * [mobx-cache](https://github.com/mdebbar/mobx-cache) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-13 An observable data cache
   with MobX
 * [mobx-input](https://github.com/tomaash/mobx-input) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2018-05-23 Form validation for MobX
@@ -499,7 +499,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Model libraries
 
-* [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree/) ⭐ 7,053 | 🐛 98 | 🌐 TypeScript | 📅 2026-10-23 Opinionated,
+* [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree/) ⭐ 7,053 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-23 Opinionated,
   transactional, MobX powered state container
 * [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) ⭐ 629 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-25 Opinionated, transactional, MobX powered state container with first-class Typescript support
 * [mmlpx](https://github.com/mmlpxjs/mmlpx) ⭐ 180 | 🐛 20 | 🌐 TypeScript | 📅 2022-12-07 A generic mobx model layer paradigm which support di and time travelling out of box
@@ -532,4 +532,4 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
