@@ -26,7 +26,7 @@
                     "open_issues": 25,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9835,
+                    "stars": 9836,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -47,10 +47,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2409,
+                "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103239,
+                "stars": 103234,
                 "topics": [
                   "build-tools",
                   "react",
@@ -499,7 +499,7 @@
                     "open_issues": 145,
                     "owner": "iam4x",
                     "repo": "pokemongo-webspoof",
-                    "stars": 2125,
+                    "stars": 2124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-04T12:44:59Z",
-                    "open_issues": 3791,
+                    "last_commit": "2026-11-05T13:04:36Z",
+                    "open_issues": 3803,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143272,
+                    "stars": 143346,
                     "topics": [
                       "blog",
                       "browser",
@@ -826,11 +826,11 @@
                     "id": 29806722,
                     "language": "C#",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-04T12:11:17Z",
+                    "last_commit": "2026-11-05T11:11:08Z",
                     "open_issues": 21,
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 440,
+                    "stars": 441,
                     "topics": [
                       "accounting",
                       "cloudflare-workers",
@@ -1405,10 +1405,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2409,
+                "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103239,
+                "stars": 103234,
                 "topics": [
                   "build-tools",
                   "react",
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:58:40.949Z",
+    "last_updated": "2026-11-05T13:11:06.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
