@@ -47,10 +47,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2410,
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103228,
+                "stars": 103229,
                 "topics": [
                   "build-tools",
                   "react",
@@ -103,7 +103,7 @@
                 "open_issues": 15,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28217,
+                "stars": 28216,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -130,7 +130,7 @@
                 "open_issues": 15,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28217,
+                "stars": 28216,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -288,7 +288,7 @@
                 "open_issues": 15,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28217,
+                "stars": 28216,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -324,7 +324,7 @@
                     "open_issues": 15,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28217,
+                    "stars": 28216,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -386,7 +386,7 @@
                     "open_issues": 15,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28217,
+                    "stars": 28216,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4534,
+                    "stars": 4533,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T11:28:50Z",
-                    "open_issues": 3853,
+                    "last_commit": "2026-11-08T11:42:25Z",
+                    "open_issues": 3864,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143379,
+                    "stars": 143418,
                     "topics": [
                       "blog",
                       "browser",
@@ -826,8 +826,8 @@
                     "id": 29806722,
                     "language": "C#",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-07T09:15:54Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-11-08T08:26:00Z",
+                    "open_issues": 22,
                     "owner": "AccountGo",
                     "repo": "accountgo",
                     "stars": 444,
@@ -1298,27 +1298,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "TypeScript + React + MobX + JSPM - Simple CRUD App example",
-                  "description": "piotrwitek/training-management-tool",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Training Management Tool - Dev Workshop Project",
-                    "homepage": "http://piotrwitek.github.io/training-management-tool",
-                    "id": 58553313,
-                    "language": "JavaScript",
-                    "license": "MIT",
-                    "last_commit": "2016-06-26T16:02:05Z",
-                    "open_issues": 2,
-                    "owner": "piotrwitek",
-                    "repo": "training-management-tool",
-                    "stars": 17,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T17:26:22.136Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Github Note Taker in MobX",
                   "description": "eswat2/egghead-mobx",
                   "children": [],
@@ -1334,6 +1313,27 @@
                     "owner": "eswat2",
                     "repo": "egghead-mobx",
                     "stars": 17,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T17:26:22.136Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeScript + React + MobX + JSPM - Simple CRUD App example",
+                  "description": "piotrwitek/training-management-tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Training Management Tool - Dev Workshop Project",
+                    "homepage": "http://piotrwitek.github.io/training-management-tool",
+                    "id": 58553313,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2016-06-26T16:02:05Z",
+                    "open_issues": 2,
+                    "owner": "piotrwitek",
+                    "repo": "training-management-tool",
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -1405,10 +1405,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-02-15T01:32:11Z",
-                "open_issues": 2410,
+                "open_issues": 2409,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103228,
+                "stars": 103229,
                 "topics": [
                   "build-tools",
                   "react",
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:43:26.747Z",
+    "last_updated": "2026-11-08T11:55:30.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
