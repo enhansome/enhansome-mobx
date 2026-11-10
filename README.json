@@ -103,7 +103,7 @@
                 "open_issues": 15,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28216,
+                "stars": 28213,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -130,7 +130,7 @@
                 "open_issues": 15,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28216,
+                "stars": 28213,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -288,7 +288,7 @@
                 "open_issues": 15,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28216,
+                "stars": 28213,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -324,7 +324,7 @@
                     "open_issues": 15,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28216,
+                    "stars": 28213,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -386,7 +386,7 @@
                     "open_issues": 15,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28216,
+                    "stars": 28213,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -459,7 +459,7 @@
                     "open_issues": 20,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4532,
+                    "stars": 4533,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -520,7 +520,7 @@
                     "open_issues": 131,
                     "owner": "CirclonGroup",
                     "repo": "angular-tree-component",
-                    "stars": 1098,
+                    "stars": 1099,
                     "topics": [
                       "angular",
                       "angular2",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T13:50:17Z",
-                    "open_issues": 3913,
+                    "last_commit": "2026-11-10T13:24:42Z",
+                    "open_issues": 3911,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143435,
+                    "stars": 143446,
                     "topics": [
                       "blog",
                       "browser",
@@ -826,11 +826,11 @@
                     "id": 29806722,
                     "language": "C#",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-09T12:37:14Z",
+                    "last_commit": "2026-11-10T12:31:26Z",
                     "open_issues": 22,
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 444,
+                    "stars": 445,
                     "topics": [
                       "accounting",
                       "cloudflare-workers",
@@ -1510,7 +1510,7 @@
                 "open_issues": 10,
                 "owner": "mobxjs",
                 "repo": "mobx-angular",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "angular",
                   "angular-mobx",
@@ -1567,7 +1567,7 @@
                 "open_issues": 10,
                 "owner": "devowlio",
                 "repo": "wp-react-starter",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "wordpress-boilerplate",
                   "wordpress-continuous-integration",
@@ -1609,7 +1609,7 @@
                 "open_issues": 27,
                 "owner": "rokoroku",
                 "repo": "react-mobx-typescript-boilerplate",
-                "stars": 378,
+                "stars": 379,
                 "topics": [
                   "boilerplate",
                   "mobx",
@@ -1639,7 +1639,7 @@
                 "open_issues": 4,
                 "owner": "YDJ-FE",
                 "repo": "ts-react-vite_or_webpack",
-                "stars": 362,
+                "stars": 364,
                 "topics": [
                   "admin-dashboard",
                   "admin-template",
@@ -1968,7 +1968,7 @@
                 "open_issues": 42,
                 "owner": "mobxjs",
                 "repo": "serializr",
-                "stars": 777,
+                "stars": 778,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:26:22.136Z"
@@ -2044,7 +2044,7 @@
                 "open_issues": 22,
                 "owner": "mobxjs",
                 "repo": "mobx-vue",
-                "stars": 477,
+                "stars": 478,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -2856,7 +2856,7 @@
                     "open_issues": 98,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7053,
+                    "stars": 7052,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -2887,7 +2887,7 @@
                     "open_issues": 16,
                     "owner": "xaviergonz",
                     "repo": "mobx-keystone",
-                    "stars": 629,
+                    "stars": 630,
                     "topics": [
                       "data-trees",
                       "frp",
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:53:28.372Z",
+    "last_updated": "2026-11-10T13:27:38.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
