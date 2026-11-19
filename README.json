@@ -16,14 +16,14 @@
                   "description": "timarney/react-app-rewired",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "Override create-react-app webpack configs without ejecting",
                     "homepage": null,
                     "id": 65231883,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T08:24:28Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-11-19T12:35:50Z",
+                    "open_issues": 18,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
                     "stars": 9835,
@@ -50,7 +50,7 @@
                 "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103226,
+                "stars": 103221,
                 "topics": [
                   "build-tools",
                   "react",
@@ -103,7 +103,7 @@
                 "open_issues": 16,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28214,
+                "stars": 28215,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -130,7 +130,7 @@
                 "open_issues": 16,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28214,
+                "stars": 28215,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -288,7 +288,7 @@
                 "open_issues": 16,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28214,
+                "stars": 28215,
                 "topics": [
                   "javascript",
                   "mobx",
@@ -324,7 +324,7 @@
                     "open_issues": 16,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28214,
+                    "stars": 28215,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -386,7 +386,7 @@
                     "open_issues": 16,
                     "owner": "mobxjs",
                     "repo": "mobx",
-                    "stars": 28214,
+                    "stars": 28215,
                     "topics": [
                       "javascript",
                       "mobx",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T13:46:37Z",
-                    "open_issues": 4032,
+                    "last_commit": "2026-11-19T14:24:42Z",
+                    "open_issues": 4056,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143728,
+                    "stars": 143581,
                     "topics": [
                       "blog",
                       "browser",
@@ -826,11 +826,11 @@
                     "id": 29806722,
                     "language": "C#",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-18T12:13:35Z",
+                    "last_commit": "2026-11-19T11:12:08Z",
                     "open_issues": 3,
                     "owner": "AccountGo",
                     "repo": "accountgo",
-                    "stars": 448,
+                    "stars": 449,
                     "topics": [
                       "accounting",
                       "cloudflare-workers",
@@ -1408,7 +1408,7 @@
                 "open_issues": 2407,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103226,
+                "stars": 103221,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2852,11 +2852,11 @@
                     "id": 67361566,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T14:48:45Z",
+                    "last_commit": "2026-11-18T16:25:57Z",
                     "open_issues": 100,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
-                    "stars": 7053,
+                    "stars": 7052,
                     "topics": [
                       "hacktoberfest",
                       "mobx",
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:56:53.049Z",
+    "last_updated": "2026-11-19T14:25:03.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
@@ -3153,7 +3153,7 @@
       "open_issues": 13,
       "owner": "mobxjs",
       "repo": "awesome-mobx",
-      "stars": 2181,
+      "stars": 2182,
       "topics": []
     },
     "original_repository_sha": "f26a346f90489958cf19c8cde8020e75a622bada",
