@@ -26,7 +26,7 @@
                     "open_issues": 18,
                     "owner": "timarney",
                     "repo": "react-app-rewired",
-                    "stars": 9835,
+                    "stars": 9834,
                     "topics": [
                       "config",
                       "create-react-app",
@@ -50,7 +50,7 @@
                 "open_issues": 2406,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103218,
+                "stars": 103222,
                 "topics": [
                   "build-tools",
                   "react",
@@ -459,7 +459,7 @@
                     "open_issues": 19,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4535,
+                    "stars": 4536,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -589,7 +589,7 @@
                     "open_issues": 14,
                     "owner": "GPMDP",
                     "repo": "google-play-music-desktop-remote",
-                    "stars": 195,
+                    "stars": 193,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:26:22.136Z"
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-25T15:33:11Z",
-                    "open_issues": 4131,
+                    "last_commit": "2026-11-26T15:12:31Z",
+                    "open_issues": 4154,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143719,
+                    "stars": 143743,
                     "topics": [
                       "blog",
                       "browser",
@@ -826,7 +826,7 @@
                     "id": 29806722,
                     "language": "C#",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-25T14:27:33Z",
+                    "last_commit": "2026-11-26T08:43:28Z",
                     "open_issues": 3,
                     "owner": "AccountGo",
                     "repo": "accountgo",
@@ -1408,7 +1408,7 @@
                 "open_issues": 2406,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103218,
+                "stars": 103222,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2012,7 +2012,7 @@
                 "id": 68822229,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-23T15:15:07Z",
+                "last_commit": "2026-11-26T07:39:45Z",
                 "open_issues": 20,
                 "owner": "kitze",
                 "repo": "mobx-router",
@@ -2853,7 +2853,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-11-25T15:26:50Z",
-                    "open_issues": 98,
+                    "open_issues": 100,
                     "owner": "mobxjs",
                     "repo": "mobx-state-tree",
                     "stars": 7050,
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T15:35:00.831Z",
+    "last_updated": "2026-11-26T15:13:22.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
