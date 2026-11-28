@@ -50,7 +50,7 @@
                 "open_issues": 2406,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103223,
+                "stars": 103222,
                 "topics": [
                   "build-tools",
                   "react",
@@ -459,7 +459,7 @@
                     "open_issues": 19,
                     "owner": "async-labs",
                     "repo": "saas",
-                    "stars": 4536,
+                    "stars": 4537,
                     "topics": [
                       "aws-s3",
                       "aws-ses",
@@ -700,11 +700,11 @@
                     "id": 70107786,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-27T14:57:48Z",
-                    "open_issues": 4149,
+                    "last_commit": "2026-11-28T14:06:37Z",
+                    "open_issues": 4152,
                     "owner": "vercel",
                     "repo": "next.js",
-                    "stars": 143759,
+                    "stars": 143751,
                     "topics": [
                       "blog",
                       "browser",
@@ -1408,7 +1408,7 @@
                 "open_issues": 2406,
                 "owner": "react",
                 "repo": "create-react-app",
-                "stars": 103223,
+                "stars": 103222,
                 "topics": [
                   "build-tools",
                   "react",
@@ -2012,7 +2012,7 @@
                 "id": 68822229,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-26T07:39:45Z",
+                "last_commit": "2026-11-27T15:54:53Z",
                 "open_issues": 20,
                 "owner": "kitze",
                 "repo": "mobx-router",
@@ -3141,7 +3141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T15:03:20.497Z",
+    "last_updated": "2026-11-28T14:10:59.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding MobX.",
